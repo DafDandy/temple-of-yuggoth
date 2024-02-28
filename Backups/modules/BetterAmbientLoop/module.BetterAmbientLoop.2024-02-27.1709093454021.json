@@ -1,0 +1,25 @@
+{
+  "title": "Better Ambient Loop by Blitz",
+  "description": "Alters the howler soundsprite end point to eliminate the short silence in ambient audio clips",
+  "version": "1.1.2.1",
+  "id": "module.BetterAmbientLoop.2024-02-27.1709093454021",
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "compatibility": {
+    "minimum": "0.5.3",
+    "verified": "0.7.0"
+  },
+  "size": 30972,
+  "note": "",
+  "snapshotId": "snapshot.2024-02-27.1709093454020",
+  "originalSize": 37448,
+  "createdAt": 1709093454021,
+  "packageId": "BetterAmbientLoop",
+  "type": "module",
+  "system": null
+}

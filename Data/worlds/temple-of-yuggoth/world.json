@@ -1,0 +1,40 @@
+{
+  "title": "Temple of Yuggoth",
+  "id": "temple-of-yuggoth",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "3.0.3",
+  "lastPlayed": "Wed Feb 28 2024 15:41:14 GMT-0500 (Eastern Standard Time)",
+  "playtime": 37743,
+  "packs": [
+    {
+      "label": "GM Tools",
+      "type": "JournalEntry",
+      "name": "gm-tools",
+      "path": "packs/gm-tools",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "DND Aids",
+      "type": "JournalEntry",
+      "name": "dnd-aids",
+      "path": "packs/dnd-aids",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}

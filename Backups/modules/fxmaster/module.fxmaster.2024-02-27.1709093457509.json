@@ -1,0 +1,25 @@
+{
+  "id": "module.fxmaster.2024-02-27.1709093457509",
+  "title": "FXMaster",
+  "description": "Adds various particle and filter effects",
+  "version": "4.0.2",
+  "compatibility": {
+    "minimum": "11.299",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "size": 19095442,
+  "note": "",
+  "snapshotId": "snapshot.2024-02-27.1709093454020",
+  "originalSize": 19893068,
+  "createdAt": 1709093457509,
+  "packageId": "fxmaster",
+  "type": "module",
+  "system": null
+}

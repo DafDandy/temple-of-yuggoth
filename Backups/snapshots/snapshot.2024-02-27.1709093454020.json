@@ -1,0 +1,30 @@
+{
+  "type": "snapshot",
+  "generation": 11,
+  "build": 315,
+  "id": "snapshot.2024-02-27.1709093454020",
+  "note": "",
+  "originalSize": 156950300,
+  "createdAt": 1709093454020,
+  "size": 117881007,
+  "backups": [
+    "module.BetterAmbientLoop.2024-02-27.1709093454021",
+    "module.colorsettings.2024-02-27.1709093454045",
+    "module.dae.2024-02-27.1709093454109",
+    "module.dice-calculator.2024-02-27.1709093454906",
+    "module.dice-so-nice.2024-02-27.1709093455059",
+    "module.drag-ruler.2024-02-27.1709093456713",
+    "module.enhancedcombathud.2024-02-27.1709093456916",
+    "module.enhancedcombathud-dnd5e.2024-02-27.1709093457380",
+    "module.fxmaster.2024-02-27.1709093457509",
+    "module.gm-screen.2024-02-27.1709093459301",
+    "module.lazymoney.2024-02-27.1709093459354",
+    "module.lib-wrapper.2024-02-27.1709093459409",
+    "module.midi-qol.2024-02-27.1709093459523",
+    "module.scaleGrid.2024-02-27.1709093459862",
+    "module.scene-transitions.2024-02-27.1709093459950",
+    "module.socketlib.2024-02-27.1709093460015",
+    "system.dnd5e.2024-02-27.1709093460060",
+    "world.temple-of-yuggoth.2024-02-27.1709093484823"
+  ]
+}

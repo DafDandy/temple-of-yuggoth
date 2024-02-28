@@ -1,0 +1,8 @@
+2024/02/28-15:40:59.678 41cc Recovering log #93
+2024/02/28-15:40:59.683 41cc Delete type=0 #93
+2024/02/28-15:40:59.683 41cc Delete type=3 #91
+2024/02/28-15:41:14.939 3f90 Level-0 table #99: started
+2024/02/28-15:41:14.939 3f90 Level-0 table #99: 0 bytes OK
+2024/02/28-15:41:14.941 3f90 Delete type=0 #97
+2024/02/28-15:41:14.946 3f90 Manual compaction at level-0 from '!playlists!ljOf6EamCZ3zvTDC' @ 72057594037927935 : 1 .. '!playlists.sounds!ljOf6EamCZ3zvTDC.xrt7jtjtV1uvNgmA' @ 0 : 0; will stop at (end)
+2024/02/28-15:41:14.947 3f90 Manual compaction at level-1 from '!playlists!ljOf6EamCZ3zvTDC' @ 72057594037927935 : 1 .. '!playlists.sounds!ljOf6EamCZ3zvTDC.xrt7jtjtV1uvNgmA' @ 0 : 0; will stop at (end)

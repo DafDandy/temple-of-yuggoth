@@ -1,0 +1,8 @@
+2024/02/28-15:40:59.700 41cc Recovering log #121
+2024/02/28-15:40:59.708 41cc Delete type=0 #121
+2024/02/28-15:40:59.708 41cc Delete type=3 #119
+2024/02/28-15:41:14.941 3f90 Level-0 table #127: started
+2024/02/28-15:41:14.941 3f90 Level-0 table #127: 0 bytes OK
+2024/02/28-15:41:14.943 3f90 Delete type=0 #125
+2024/02/28-15:41:14.946 3f90 Manual compaction at level-0 from '!scenes!4n832RHmw8FLTwd4' @ 72057594037927935 : 1 .. '!scenes.walls!wUIO9Jhy3fJrKHXJ.yrIgAgCBGHwIyEqi' @ 0 : 0; will stop at (end)
+2024/02/28-15:41:14.947 3f90 Manual compaction at level-1 from '!scenes!4n832RHmw8FLTwd4' @ 72057594037927935 : 1 .. '!scenes.walls!wUIO9Jhy3fJrKHXJ.yrIgAgCBGHwIyEqi' @ 0 : 0; will stop at (end)

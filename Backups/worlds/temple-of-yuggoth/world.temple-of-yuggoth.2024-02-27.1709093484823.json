@@ -1,0 +1,25 @@
+{
+  "title": "Temple of Yuggoth",
+  "id": "world.temple-of-yuggoth.2024-02-27.1709093484823",
+  "system": "dnd5e",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "description": "",
+  "version": "0",
+  "size": 568776,
+  "note": "",
+  "snapshotId": "snapshot.2024-02-27.1709093454020",
+  "originalSize": 780717,
+  "createdAt": 1709093484823,
+  "packageId": "temple-of-yuggoth",
+  "type": "world"
+}

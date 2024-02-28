@@ -1,0 +1,25 @@
+{
+  "id": "module.scaleGrid.2024-02-27.1709093459862",
+  "title": "Grid Scaler",
+  "description": "A set of tools to quickly match the scene grid to your map's grid. Works with both squares and hexes.",
+  "version": "1.4.4",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "size": 15912,
+  "note": "",
+  "snapshotId": "snapshot.2024-02-27.1709093454020",
+  "originalSize": 50940,
+  "createdAt": 1709093459862,
+  "packageId": "scaleGrid",
+  "type": "module",
+  "system": null
+}

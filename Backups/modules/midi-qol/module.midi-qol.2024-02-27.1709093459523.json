@@ -1,0 +1,60 @@
+{
+  "id": "module.midi-qol.2024-02-27.1709093459523",
+  "title": "Midi QOL",
+  "description": "Automates rolling weapon/spell attacks and applying damage",
+  "version": "11.4.5",
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "3.0",
+          "maximum": "3.3"
+        }
+      },
+      {
+        "id": "sw5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "2.0.2.2.2.5"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dae",
+        "type": "module",
+        "compatibility": {
+          "minimum": "11.3.3"
+        }
+      }
+    ],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "compatibility": {
+    "minimum": "11.302",
+    "verified": "11.315",
+    "maximum": "11.999"
+  },
+  "size": 1867998,
+  "note": "",
+  "snapshotId": "snapshot.2024-02-27.1709093454020",
+  "originalSize": 3805098,
+  "createdAt": 1709093459523,
+  "packageId": "midi-qol",
+  "type": "module",
+  "system": null
+}

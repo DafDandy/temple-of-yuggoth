@@ -1,0 +1,25 @@
+{
+  "id": "module.dice-calculator.2024-02-27.1709093454906",
+  "title": "Dice Tray",
+  "description": "Adds a dice tray below chat, and turns the d20 near chat into a dice calculator.",
+  "version": "2.1.9",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.314"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "size": 99012,
+  "note": "",
+  "snapshotId": "snapshot.2024-02-27.1709093454020",
+  "originalSize": 439800,
+  "createdAt": 1709093454906,
+  "packageId": "dice-calculator",
+  "type": "module",
+  "system": null
+}

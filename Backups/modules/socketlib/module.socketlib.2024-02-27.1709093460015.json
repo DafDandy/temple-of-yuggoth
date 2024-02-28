@@ -1,0 +1,25 @@
+{
+  "id": "module.socketlib.2024-02-27.1709093460015",
+  "title": "socketlib",
+  "description": "A library for easier handling of foundry sockets",
+  "version": "1.0.13",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "size": 9864,
+  "note": "",
+  "snapshotId": "snapshot.2024-02-27.1709093454020",
+  "originalSize": 31391,
+  "createdAt": 1709093460015,
+  "packageId": "socketlib",
+  "type": "module",
+  "system": null
+}

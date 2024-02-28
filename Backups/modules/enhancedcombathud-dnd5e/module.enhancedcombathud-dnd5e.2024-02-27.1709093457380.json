@@ -1,0 +1,39 @@
+{
+  "title": "Argon - Combat HUD (DND5E)",
+  "description": "DnD5e - Fifth Edition System Argon integration",
+  "id": "module.enhancedcombathud-dnd5e.2024-02-27.1709093457380",
+  "version": "3.1.2",
+  "relationships": {
+    "requires": [
+      {
+        "id": "enhancedcombathud",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "3.0.0"
+        }
+      }
+    ],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "size": 153071,
+  "note": "",
+  "snapshotId": "snapshot.2024-02-27.1709093454020",
+  "originalSize": 542117,
+  "createdAt": 1709093457380,
+  "packageId": "enhancedcombathud-dnd5e",
+  "type": "module",
+  "system": null
+}

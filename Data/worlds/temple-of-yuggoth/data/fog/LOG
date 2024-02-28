@@ -1,0 +1,8 @@
+2024/02/28-15:40:59.634 e34 Recovering log #105
+2024/02/28-15:40:59.639 e34 Delete type=0 #105
+2024/02/28-15:40:59.639 e34 Delete type=3 #103
+2024/02/28-15:41:14.945 3f90 Level-0 table #110: started
+2024/02/28-15:41:14.945 3f90 Level-0 table #110: 0 bytes OK
+2024/02/28-15:41:14.946 3f90 Delete type=0 #108
+2024/02/28-15:41:14.947 3f90 Manual compaction at level-0 from '!fog!BG54LcZk8MXAo4id' @ 72057594037927935 : 1 .. '!fog!siSYbZ9biTFh0fe6' @ 0 : 0; will stop at (end)
+2024/02/28-15:41:14.947 3f90 Manual compaction at level-1 from '!fog!BG54LcZk8MXAo4id' @ 72057594037927935 : 1 .. '!fog!siSYbZ9biTFh0fe6' @ 0 : 0; will stop at (end)

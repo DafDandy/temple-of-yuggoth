@@ -1,0 +1,39 @@
+{
+  "id": "module.dae.2024-02-27.1709093454109",
+  "title": "Dynamic effects using Active Effects (DAE)",
+  "description": "Replacement for dynamic effects",
+  "version": "11.3.7",
+  "compatibility": {
+    "minimum": "11.313",
+    "verified": "11.315",
+    "maximum": "11.999"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-socketlib/develop/module.json",
+        "compatibility": {}
+      }
+    ],
+    "conflicts": [],
+    "systems": [],
+    "recommends": [],
+    "flags": {}
+  },
+  "size": 622565,
+  "note": "",
+  "snapshotId": "snapshot.2024-02-27.1709093454020",
+  "originalSize": 1136469,
+  "createdAt": 1709093454109,
+  "packageId": "dae",
+  "type": "module",
+  "system": null
+}
