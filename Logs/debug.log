@@ -7069,3 +7069,395 @@
 {"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-02-28 15:43:05"}
 {"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-02-28 15:43:05"}
 {"level":"info","message":"Administrator authentication successful for session 035dce96bcf799beefe96b95","timestamp":"2024-02-28 15:43:10"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-02-28 16:18:53"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"actors\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"cards\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"messages\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"combats\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"drawings\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fog\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"folders\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"items\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"journal\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"macros\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"playlists\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"tables\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scenes\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"settings\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"users\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.gm-tools\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.dnd-aids\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.heroes\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsters\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.items\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tradegoods\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.spells\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.backgrounds\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classes\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.subclasses\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classfeatures\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.races\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsterfeatures\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.rules\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tables\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fxmaster.fxmaster\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"midi-qol.midiqol-sample-items\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scene-transitions.scene-transitions-macros\"","timestamp":"2024-02-28 16:18:53"}
+{"level":"info","message":"FoundryVTT | Created 0 Folder documents with ids: []","timestamp":"2024-02-28 16:18:53"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"035dce96bcf799beefe96b95","timestamp":"2024-02-28 16:18:59"}
+{"level":"info","message":"No system update for Dungeons & Dragons Fifth Edition is currently available.","timestamp":"2024-02-28 16:19:01"}
+{"level":"info","message":"Vended World data to User [5nuQTPpR1Guna1Cg] in 301ms","timestamp":"2024-02-28 16:19:01"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:20:09"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:21:09"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:22:09"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:23:09"}
+{"level":"info","message":"Toggling game pause status to false","timestamp":"2024-02-28 16:23:48"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:24:09"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:25:09"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:25:29"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:26:09"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:27:09"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:28:09"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.AI8pRpuwznJj3Nsm#text.content'.","timestamp":"2024-02-28 16:29:09"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:29:09"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.AI8pRpuwznJj3Nsm#text.content'.","timestamp":"2024-02-28 16:29:21"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.AI8pRpuwznJj3Nsm#text.content'.","timestamp":"2024-02-28 16:29:22"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.AI8pRpuwznJj3Nsm#text.content' has no more active editors, cleaning up.","timestamp":"2024-02-28 16:29:22"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:31:09"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:32:09"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:32:43"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-02-28 16:32:44"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content' has no more active editors, cleaning up.","timestamp":"2024-02-28 16:32:44"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:32:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:33:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:34:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:35:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:36:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:37:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:38:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:39:56"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:40:34"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:40:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:41:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:42:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:43:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:44:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:45:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:46:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:47:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:48:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:49:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:50:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:51:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:52:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:53:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:54:56"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:55:56"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:56:05"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content'.","timestamp":"2024-02-28 16:56:12"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.1pnIXvoFcUGtc9cv#text.content' has no more active editors, cleaning up.","timestamp":"2024-02-28 16:56:12"}
+{"level":"info","message":"Activating scene Cultist-Layer [4n832RHmw8FLTwd4]","timestamp":"2024-02-28 16:58:20"}
+{"level":"info","message":"FoundryVTT | Created Token with id [uuzDq7jrzy3RD70J] in parent Scene [4n832RHmw8FLTwd4]","timestamp":"2024-02-28 16:58:43"}
+{"level":"info","message":"FoundryVTT | Deleted Token with id [uuzDq7jrzy3RD70J] in parent Scene [4n832RHmw8FLTwd4]","timestamp":"2024-02-28 16:59:10"}
+{"level":"info","message":"Activating scene Tavern-main [wUIO9Jhy3fJrKHXJ]","timestamp":"2024-02-28 16:59:25"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-02-28 17:01:19"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-02-28 17:01:19"}
+{"level":"info","message":"Downloading Package - 1%","timestamp":"2024-02-28 17:02:40"}
+{"level":"info","message":"Downloading Package - 2%","timestamp":"2024-02-28 17:02:40"}
+{"level":"info","message":"Downloading Package - 3%","timestamp":"2024-02-28 17:02:40"}
+{"level":"info","message":"Downloading Package - 4%","timestamp":"2024-02-28 17:02:40"}
+{"level":"info","message":"Downloading Package - 5%","timestamp":"2024-02-28 17:02:40"}
+{"level":"info","message":"Downloading Package - 6%","timestamp":"2024-02-28 17:02:40"}
+{"level":"info","message":"Downloading Package - 7%","timestamp":"2024-02-28 17:02:40"}
+{"level":"info","message":"Downloading Package - 8%","timestamp":"2024-02-28 17:02:40"}
+{"level":"info","message":"Downloading Package - 9%","timestamp":"2024-02-28 17:02:40"}
+{"level":"info","message":"Downloading Package - 10%","timestamp":"2024-02-28 17:02:40"}
+{"level":"info","message":"Downloading Package - 11%","timestamp":"2024-02-28 17:02:40"}
+{"level":"info","message":"Downloading Package - 12%","timestamp":"2024-02-28 17:02:40"}
+{"level":"info","message":"Downloading Package - 13%","timestamp":"2024-02-28 17:02:40"}
+{"level":"info","message":"Downloading Package - 14%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 15%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 16%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 17%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 18%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 19%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 20%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 21%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 22%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 23%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 24%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 25%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 26%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 27%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 28%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 29%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 30%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 31%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 32%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 33%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 34%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 35%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 36%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 37%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 38%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 39%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 40%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 41%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 42%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 43%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 44%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 45%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 46%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 47%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 48%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 49%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 50%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 51%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 52%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 53%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 54%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 55%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 56%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 57%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 58%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 59%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 60%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 61%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 62%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 63%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 64%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 65%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 66%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 67%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 68%","timestamp":"2024-02-28 17:02:41"}
+{"level":"info","message":"Downloading Package - 69%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 70%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 71%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 72%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 73%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 74%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 75%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 76%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 77%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 78%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 79%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 80%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 81%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 82%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 83%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 84%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 85%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 86%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 87%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 88%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 89%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 90%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 91%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 92%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 93%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 94%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 95%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 96%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 97%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 98%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 99%","timestamp":"2024-02-28 17:02:42"}
+{"level":"info","message":"Downloading Package - 100%","timestamp":"2024-02-28 17:02:56"}
+{"level":"info","message":"Installing package - 0%","timestamp":"2024-02-28 17:03:01"}
+{"level":"info","message":"Installing package - 1%","timestamp":"2024-02-28 17:03:01"}
+{"level":"info","message":"Installing package - 2%","timestamp":"2024-02-28 17:03:01"}
+{"level":"info","message":"Installing package - 3%","timestamp":"2024-02-28 17:03:02"}
+{"level":"info","message":"Installing package - 4%","timestamp":"2024-02-28 17:03:02"}
+{"level":"info","message":"Installing package - 5%","timestamp":"2024-02-28 17:03:02"}
+{"level":"info","message":"Installing package - 6%","timestamp":"2024-02-28 17:03:02"}
+{"level":"info","message":"Installing package - 7%","timestamp":"2024-02-28 17:03:03"}
+{"level":"info","message":"Installing package - 8%","timestamp":"2024-02-28 17:03:03"}
+{"level":"info","message":"Installing package - 9%","timestamp":"2024-02-28 17:03:04"}
+{"level":"info","message":"Installing package - 10%","timestamp":"2024-02-28 17:03:04"}
+{"level":"info","message":"Installing package - 11%","timestamp":"2024-02-28 17:03:04"}
+{"level":"info","message":"Installing package - 12%","timestamp":"2024-02-28 17:03:05"}
+{"level":"info","message":"Installing package - 13%","timestamp":"2024-02-28 17:03:05"}
+{"level":"info","message":"Installing package - 14%","timestamp":"2024-02-28 17:03:06"}
+{"level":"info","message":"Installing package - 15%","timestamp":"2024-02-28 17:03:06"}
+{"level":"info","message":"Installing package - 16%","timestamp":"2024-02-28 17:03:06"}
+{"level":"info","message":"Installing package - 17%","timestamp":"2024-02-28 17:03:07"}
+{"level":"info","message":"Installing package - 18%","timestamp":"2024-02-28 17:03:07"}
+{"level":"info","message":"Installing package - 19%","timestamp":"2024-02-28 17:03:07"}
+{"level":"info","message":"Installing package - 20%","timestamp":"2024-02-28 17:03:08"}
+{"level":"info","message":"Installing package - 21%","timestamp":"2024-02-28 17:03:08"}
+{"level":"info","message":"Installing package - 22%","timestamp":"2024-02-28 17:03:08"}
+{"level":"info","message":"Installing package - 23%","timestamp":"2024-02-28 17:03:09"}
+{"level":"info","message":"Installing package - 24%","timestamp":"2024-02-28 17:03:09"}
+{"level":"info","message":"Installing package - 25%","timestamp":"2024-02-28 17:03:10"}
+{"level":"info","message":"Installing package - 26%","timestamp":"2024-02-28 17:03:10"}
+{"level":"info","message":"Installing package - 27%","timestamp":"2024-02-28 17:03:10"}
+{"level":"info","message":"Installing package - 28%","timestamp":"2024-02-28 17:03:11"}
+{"level":"info","message":"Installing package - 29%","timestamp":"2024-02-28 17:03:11"}
+{"level":"info","message":"Installing package - 30%","timestamp":"2024-02-28 17:03:12"}
+{"level":"info","message":"Installing package - 31%","timestamp":"2024-02-28 17:03:12"}
+{"level":"info","message":"Installing package - 32%","timestamp":"2024-02-28 17:03:13"}
+{"level":"info","message":"Installing package - 33%","timestamp":"2024-02-28 17:03:13"}
+{"level":"info","message":"Installing package - 34%","timestamp":"2024-02-28 17:03:13"}
+{"level":"info","message":"Installing package - 35%","timestamp":"2024-02-28 17:03:14"}
+{"level":"info","message":"Installing package - 36%","timestamp":"2024-02-28 17:03:14"}
+{"level":"info","message":"Installing package - 37%","timestamp":"2024-02-28 17:03:14"}
+{"level":"info","message":"Installing package - 38%","timestamp":"2024-02-28 17:03:15"}
+{"level":"info","message":"Installing package - 39%","timestamp":"2024-02-28 17:03:15"}
+{"level":"info","message":"Installing package - 40%","timestamp":"2024-02-28 17:03:15"}
+{"level":"info","message":"Installing package - 41%","timestamp":"2024-02-28 17:03:16"}
+{"level":"info","message":"Installing package - 42%","timestamp":"2024-02-28 17:03:16"}
+{"level":"info","message":"Installing package - 43%","timestamp":"2024-02-28 17:03:17"}
+{"level":"info","message":"Installing package - 44%","timestamp":"2024-02-28 17:03:17"}
+{"level":"info","message":"Installing package - 45%","timestamp":"2024-02-28 17:03:17"}
+{"level":"info","message":"Installing package - 46%","timestamp":"2024-02-28 17:03:18"}
+{"level":"info","message":"Installing package - 47%","timestamp":"2024-02-28 17:03:18"}
+{"level":"info","message":"Installing package - 48%","timestamp":"2024-02-28 17:03:18"}
+{"level":"info","message":"Installing package - 49%","timestamp":"2024-02-28 17:03:19"}
+{"level":"info","message":"Installing package - 50%","timestamp":"2024-02-28 17:03:19"}
+{"level":"info","message":"Installing package - 51%","timestamp":"2024-02-28 17:03:19"}
+{"level":"info","message":"Installing package - 52%","timestamp":"2024-02-28 17:03:20"}
+{"level":"info","message":"Installing package - 53%","timestamp":"2024-02-28 17:03:20"}
+{"level":"info","message":"Installing package - 54%","timestamp":"2024-02-28 17:03:20"}
+{"level":"info","message":"Installing package - 55%","timestamp":"2024-02-28 17:03:21"}
+{"level":"info","message":"Installing package - 56%","timestamp":"2024-02-28 17:03:21"}
+{"level":"info","message":"Installing package - 57%","timestamp":"2024-02-28 17:03:22"}
+{"level":"info","message":"Installing package - 58%","timestamp":"2024-02-28 17:03:22"}
+{"level":"info","message":"Installing package - 59%","timestamp":"2024-02-28 17:03:22"}
+{"level":"info","message":"Installing package - 60%","timestamp":"2024-02-28 17:03:23"}
+{"level":"info","message":"Installing package - 61%","timestamp":"2024-02-28 17:03:23"}
+{"level":"info","message":"Installing package - 62%","timestamp":"2024-02-28 17:03:23"}
+{"level":"info","message":"Installing package - 63%","timestamp":"2024-02-28 17:03:24"}
+{"level":"info","message":"Installing package - 64%","timestamp":"2024-02-28 17:03:24"}
+{"level":"info","message":"Installing package - 65%","timestamp":"2024-02-28 17:03:25"}
+{"level":"info","message":"Installing package - 66%","timestamp":"2024-02-28 17:03:25"}
+{"level":"info","message":"Installing package - 67%","timestamp":"2024-02-28 17:03:25"}
+{"level":"info","message":"Installing package - 68%","timestamp":"2024-02-28 17:03:26"}
+{"level":"info","message":"Installing package - 69%","timestamp":"2024-02-28 17:03:26"}
+{"level":"info","message":"Installing package - 70%","timestamp":"2024-02-28 17:03:26"}
+{"level":"info","message":"Installing package - 71%","timestamp":"2024-02-28 17:03:27"}
+{"level":"info","message":"Installing package - 72%","timestamp":"2024-02-28 17:03:27"}
+{"level":"info","message":"Installing package - 73%","timestamp":"2024-02-28 17:03:28"}
+{"level":"info","message":"Installing package - 74%","timestamp":"2024-02-28 17:03:28"}
+{"level":"info","message":"Installing package - 75%","timestamp":"2024-02-28 17:03:28"}
+{"level":"info","message":"Installing package - 76%","timestamp":"2024-02-28 17:03:29"}
+{"level":"info","message":"Installing package - 77%","timestamp":"2024-02-28 17:03:29"}
+{"level":"info","message":"Installing package - 78%","timestamp":"2024-02-28 17:03:29"}
+{"level":"info","message":"Installing package - 79%","timestamp":"2024-02-28 17:03:30"}
+{"level":"info","message":"Installing package - 80%","timestamp":"2024-02-28 17:03:30"}
+{"level":"info","message":"Installing package - 81%","timestamp":"2024-02-28 17:03:30"}
+{"level":"info","message":"Installing package - 82%","timestamp":"2024-02-28 17:03:31"}
+{"level":"info","message":"Installing package - 83%","timestamp":"2024-02-28 17:03:31"}
+{"level":"info","message":"Installing package - 84%","timestamp":"2024-02-28 17:03:31"}
+{"level":"info","message":"Installing package - 85%","timestamp":"2024-02-28 17:03:32"}
+{"level":"info","message":"Installing package - 86%","timestamp":"2024-02-28 17:03:32"}
+{"level":"info","message":"Installing package - 87%","timestamp":"2024-02-28 17:03:32"}
+{"level":"info","message":"Installing package - 88%","timestamp":"2024-02-28 17:03:33"}
+{"level":"info","message":"Installing package - 89%","timestamp":"2024-02-28 17:03:33"}
+{"level":"info","message":"Installing package - 90%","timestamp":"2024-02-28 17:03:34"}
+{"level":"info","message":"Installing package - 91%","timestamp":"2024-02-28 17:03:34"}
+{"level":"info","message":"Installing package - 92%","timestamp":"2024-02-28 17:03:34"}
+{"level":"info","message":"Installing package - 93%","timestamp":"2024-02-28 17:03:35"}
+{"level":"info","message":"Installing package - 94%","timestamp":"2024-02-28 17:03:35"}
+{"level":"info","message":"Installing package - 95%","timestamp":"2024-02-28 17:03:35"}
+{"level":"info","message":"Installing package - 96%","timestamp":"2024-02-28 17:03:36"}
+{"level":"info","message":"Installing package - 97%","timestamp":"2024-02-28 17:03:36"}
+{"level":"info","message":"Installing package - 98%","timestamp":"2024-02-28 17:03:36"}
+{"level":"info","message":"Installing package - 99%","timestamp":"2024-02-28 17:03:37"}
+{"level":"info","message":"Installing package - 100%","timestamp":"2024-02-28 17:03:37"}
+{"level":"info","message":"Cleaning Up Artifacts - 100%","timestamp":"2024-02-28 17:03:37"}
+{"level":"info","message":"Installation Complete - 100%","timestamp":"2024-02-28 17:03:37"}
+{"level":"info","message":"FoundryVTT | Installed module too-many-tokens-dnd","timestamp":"2024-02-28 17:03:37"}
+{"level":"info","message":"Vending Package - 100%","timestamp":"2024-02-28 17:03:37"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-02-28 17:03:40"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-02-28 17:03:40"}
+{"level":"info","message":"FoundryVTT | Connected to database \"actors\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"cards\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"messages\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"combats\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"drawings\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fog\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"folders\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"items\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"journal\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"macros\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"playlists\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"tables\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scenes\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"settings\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"users\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.gm-tools\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.dnd-aids\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.heroes\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsters\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.items\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tradegoods\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.spells\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.backgrounds\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classes\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.subclasses\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classfeatures\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.races\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsterfeatures\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.rules\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tables\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fxmaster.fxmaster\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"midi-qol.midiqol-sample-items\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scene-transitions.scene-transitions-macros\"","timestamp":"2024-02-28 17:03:41"}
+{"level":"info","message":"FoundryVTT | Created 0 Folder documents with ids: []","timestamp":"2024-02-28 17:03:41"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"035dce96bcf799beefe96b95","timestamp":"2024-02-28 17:03:43"}
+{"level":"info","message":"No system update for Dungeons & Dragons Fifth Edition is currently available.","timestamp":"2024-02-28 17:03:44"}
+{"level":"info","message":"Vended World data to User [5nuQTPpR1Guna1Cg] in 237ms","timestamp":"2024-02-28 17:03:44"}
+{"level":"info","message":"FoundryVTT | Connected to database \"too-many-tokens-dnd.toomanytokensdnd-macros\"","timestamp":"2024-02-28 17:03:54"}
+{"level":"info","message":"FoundryVTT | Created 0 Folder documents with ids: []","timestamp":"2024-02-28 17:03:54"}
+{"level":"info","message":"No system update for Dungeons & Dragons Fifth Edition is currently available.","timestamp":"2024-02-28 17:03:56"}
+{"level":"info","message":"Vended World data to User [5nuQTPpR1Guna1Cg] in 173ms","timestamp":"2024-02-28 17:03:56"}
+{"level":"info","message":"FoundryVTT | Created Setting with id [q9BRFo5uJqoRpdIm]","timestamp":"2024-02-28 17:04:00"}
+{"level":"info","message":"FoundryVTT | Created Setting with id [Rp6kbfC7OkBm25UY]","timestamp":"2024-02-28 17:04:00"}
+{"level":"info","message":"FoundryVTT | Created Folder with id [gYLg7CqfwCUtO0u4]","timestamp":"2024-02-28 17:08:06"}
+{"level":"info","message":"FoundryVTT | Created Actor with id [NFgQ7mmWvUPkOl1z]","timestamp":"2024-02-28 17:09:02"}
+{"level":"info","message":"FoundryVTT | Created Token with id [kobWcAyIcEsT9QSP] in parent Scene [wUIO9Jhy3fJrKHXJ]","timestamp":"2024-02-28 17:09:50"}
+{"level":"info","message":"FoundryVTT | Deleted Token with id [kobWcAyIcEsT9QSP] in parent Scene [wUIO9Jhy3fJrKHXJ]","timestamp":"2024-02-28 17:11:50"}
+{"level":"info","message":"FoundryVTT | Created Actor with id [YZSYNGrmJMROAX4D]","timestamp":"2024-02-28 17:12:09"}
+{"level":"info","message":"FoundryVTT | Created Actor with id [bzmzg7hkJn4whCor]","timestamp":"2024-02-28 17:14:05"}
+{"level":"info","message":"FoundryVTT | Created Actor with id [NhOA2H16gpFJHYdJ]","timestamp":"2024-02-28 17:15:21"}
+{"level":"info","message":"FoundryVTT | Created Actor with id [d5H6HSGJ1hVmWa8U]","timestamp":"2024-02-28 17:16:09"}
+{"level":"info","message":"FoundryVTT | Created Actor with id [SD8PyDjATvG4n7gD]","timestamp":"2024-02-28 17:17:23"}
+{"level":"info","message":"FoundryVTT | Created Actor with id [8s5aarIE9qgEuFvF]","timestamp":"2024-02-28 17:18:15"}
+{"level":"info","message":"FoundryVTT | Created Actor with id [krYlrA0C3pWypI2m]","timestamp":"2024-02-28 17:19:04"}
+{"level":"info","message":"FoundryVTT | Created Token with id [T0rhOlQp5KAYKbkn] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:19:41"}
+{"level":"info","message":"FoundryVTT | Created Token with id [i9jNA8WFghQ5l7ht] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:20:25"}
+{"level":"info","message":"FoundryVTT | Created Token with id [EmOnNJO4FJjZZIzG] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:20:28"}
+{"level":"info","message":"FoundryVTT | Created Token with id [1JdPPNu6gQyXXNNy] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:20:29"}
+{"level":"info","message":"FoundryVTT | Created Token with id [TtSRUbYoGBm5i9R3] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:20:31"}
+{"level":"info","message":"FoundryVTT | Created Token with id [EaaEzPxwbsJhuTE2] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:20:33"}
+{"level":"info","message":"FoundryVTT | Deleted 6 Token documents in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:20:40"}
+{"level":"info","message":"FoundryVTT | Created Token with id [oPyI6S63I6rSL5pp] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:20:42"}
+{"level":"info","message":"FoundryVTT | Created Token with id [aRw5m3PQofkcPXMT] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:20:45"}
+{"level":"info","message":"FoundryVTT | Created Token with id [mVOLUD9w4lrS9foq] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:20:46"}
+{"level":"info","message":"FoundryVTT | Created Token with id [yCvppx3RqXoqMrkr] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:20:48"}
+{"level":"info","message":"FoundryVTT | Deleted Token with id [yCvppx3RqXoqMrkr] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:21:10"}
+{"level":"info","message":"FoundryVTT | Created Token with id [37rGqiHarYddrmy7] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:21:12"}
+{"level":"info","message":"FoundryVTT | Created Token with id [qruQCdDPMjjPyqA3] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:21:14"}
+{"level":"info","message":"FoundryVTT | Created Token with id [2gN3k9SQCNt1wmNW] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:21:16"}
+{"level":"info","message":"FoundryVTT | Created Token with id [l2HoWwlDQKa597UF] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:21:33"}
+{"level":"info","message":"FoundryVTT | Deleted 7 Token documents in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:21:50"}
+{"level":"info","message":"FoundryVTT | Created Token with id [klGBENk1rvGoNSpY] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:21:51"}
+{"level":"info","message":"FoundryVTT | Created Token with id [yuHkzpVtMmPCviEX] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:21:53"}
+{"level":"info","message":"FoundryVTT | Created Token with id [PKuEE5mLH7n1C5PS] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:21:55"}
+{"level":"info","message":"FoundryVTT | Created Token with id [Ii3z46ytq4fwY2VB] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:21:57"}
+{"level":"info","message":"FoundryVTT | Created Token with id [oRhDytCdfRZtcqBu] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:21:58"}
+{"level":"info","message":"FoundryVTT | Created Token with id [ZInZCUwKEzTL6FSV] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:22:00"}
+{"level":"info","message":"FoundryVTT | Created Token with id [Hsjv241lKTfAhdre] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:22:02"}
+{"level":"info","message":"FoundryVTT | Created Token with id [ZSgwKxUGMe03bQoE] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:22:06"}
+{"level":"info","message":"FoundryVTT | Created Token with id [2DpiKL6A56cemCrs] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:22:08"}
+{"level":"info","message":"FoundryVTT | Deleted 9 Token documents in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:22:09"}
+{"level":"info","message":"FoundryVTT | Created Token with id [qXbG8jk2xFCgvwqw] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:22:22"}
+{"level":"info","message":"FoundryVTT | Deleted Token with id [qXbG8jk2xFCgvwqw] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:22:24"}
+{"level":"info","message":"FoundryVTT | Created Token with id [EakHLEiskymzi6Hz] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:22:27"}
+{"level":"info","message":"FoundryVTT | Created Token with id [NscfMQy1v1FmBpJP] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:22:47"}
+{"level":"info","message":"FoundryVTT | Created Token with id [LliwIocwAnq7rO0n] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:22:50"}
+{"level":"info","message":"FoundryVTT | Created Token with id [IRqy7PDjDkAf8D7n] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:22:52"}
+{"level":"info","message":"FoundryVTT | Deleted 3 Token documents with ids: [IRqy7PDjDkAf8D7n,NscfMQy1v1FmBpJP,LliwIocwAnq7rO0n] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-02-28 17:22:56"}
+{"level":"info","message":"Logged user 5nuQTPpR1Guna1Cg out of active World","timestamp":"2024-02-28 17:23:27"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2024-02-28 17:23:29"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2024-02-28 17:23:29"}
