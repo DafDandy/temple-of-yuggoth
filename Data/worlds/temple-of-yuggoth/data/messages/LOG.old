@@ -1,8 +1,8 @@
-2024/02/28-16:18:53.141 2ff0 Recovering log #106
-2024/02/28-16:18:53.146 2ff0 Delete type=0 #106
-2024/02/28-16:18:53.146 2ff0 Delete type=3 #104
-2024/02/28-17:01:18.319 25b0 Level-0 table #111: started
-2024/02/28-17:01:18.319 25b0 Level-0 table #111: 0 bytes OK
-2024/02/28-17:01:18.321 25b0 Delete type=0 #109
-2024/02/28-17:01:18.323 25b0 Manual compaction at level-0 from '!messages!Qe5V3BBfxUeqZUUB' @ 72057594037927935 : 1 .. '!messages!ngj0usHfrINhDF71' @ 0 : 0; will stop at (end)
-2024/02/28-17:01:18.323 25b0 Manual compaction at level-1 from '!messages!Qe5V3BBfxUeqZUUB' @ 72057594037927935 : 1 .. '!messages!ngj0usHfrINhDF71' @ 0 : 0; will stop at (end)
+2024/03/01-08:28:25.200 44ac Recovering log #116
+2024/03/01-08:28:25.205 44ac Delete type=0 #116
+2024/03/01-08:28:25.206 44ac Delete type=3 #114
+2024/03/01-08:28:31.562 2ec0 Level-0 table #122: started
+2024/03/01-08:28:31.562 2ec0 Level-0 table #122: 0 bytes OK
+2024/03/01-08:28:31.564 2ec0 Delete type=0 #120
+2024/03/01-08:28:31.571 2ec0 Manual compaction at level-0 from '!messages!2TlwarP3BWUiUi6F' @ 72057594037927935 : 1 .. '!messages!zTy4slCk64p2LmSz' @ 0 : 0; will stop at (end)
+2024/03/01-08:28:31.571 2ec0 Manual compaction at level-1 from '!messages!2TlwarP3BWUiUi6F' @ 72057594037927935 : 1 .. '!messages!zTy4slCk64p2LmSz' @ 0 : 0; will stop at (end)

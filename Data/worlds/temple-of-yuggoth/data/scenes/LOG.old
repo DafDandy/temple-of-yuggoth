@@ -1,15 +1,8 @@
-2024/02/28-16:18:53.239 2ff0 Recovering log #126
-2024/02/28-16:18:53.247 2ff0 Delete type=0 #126
-2024/02/28-16:18:53.247 2ff0 Delete type=3 #124
-2024/02/28-17:01:18.376 25b0 Level-0 table #131: started
-2024/02/28-17:01:18.379 25b0 Level-0 table #131: 61113 bytes OK
-2024/02/28-17:01:18.381 25b0 Delete type=0 #129
-2024/02/28-17:01:18.381 25b0 Manual compaction at level-0 from '!scenes!4n832RHmw8FLTwd4' @ 72057594037927935 : 1 .. '!scenes.walls!wUIO9Jhy3fJrKHXJ.yrIgAgCBGHwIyEqi' @ 0 : 0; will stop at (end)
-2024/02/28-17:01:18.391 25b0 Manual compaction at level-1 from '!scenes!4n832RHmw8FLTwd4' @ 72057594037927935 : 1 .. '!scenes.walls!wUIO9Jhy3fJrKHXJ.yrIgAgCBGHwIyEqi' @ 0 : 0; will stop at '!scenes.tokens.delta!4n832RHmw8FLTwd4.uuzDq7jrzy3RD70J.6qiE2uvuBYMGvBDp' @ 14311 : 1
-2024/02/28-17:01:18.391 25b0 Compacting 1@1 + 1@2 files
-2024/02/28-17:01:18.397 25b0 Generated table #132@1: 1622 keys, 174197 bytes
-2024/02/28-17:01:18.397 25b0 Compacted 1@1 + 1@2 files => 174197 bytes
-2024/02/28-17:01:18.399 25b0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/02/28-17:01:18.399 25b0 Delete type=2 #123
-2024/02/28-17:01:18.399 25b0 Delete type=2 #131
-2024/02/28-17:01:18.406 25b0 Manual compaction at level-1 from '!scenes.tokens.delta!4n832RHmw8FLTwd4.uuzDq7jrzy3RD70J.6qiE2uvuBYMGvBDp' @ 14311 : 1 .. '!scenes.walls!wUIO9Jhy3fJrKHXJ.yrIgAgCBGHwIyEqi' @ 0 : 0; will stop at (end)
+2024/03/01-08:28:25.478 44ac Recovering log #139
+2024/03/01-08:28:25.483 44ac Delete type=0 #139
+2024/03/01-08:28:25.483 44ac Delete type=3 #135
+2024/03/01-08:28:31.588 2ec0 Level-0 table #145: started
+2024/03/01-08:28:31.588 2ec0 Level-0 table #145: 0 bytes OK
+2024/03/01-08:28:31.590 2ec0 Delete type=0 #143
+2024/03/01-08:28:31.595 2ec0 Manual compaction at level-0 from '!scenes!4n832RHmw8FLTwd4' @ 72057594037927935 : 1 .. '!scenes.walls!wUIO9Jhy3fJrKHXJ.yrIgAgCBGHwIyEqi' @ 0 : 0; will stop at (end)
+2024/03/01-08:28:31.595 2ec0 Manual compaction at level-1 from '!scenes!4n832RHmw8FLTwd4' @ 72057594037927935 : 1 .. '!scenes.walls!wUIO9Jhy3fJrKHXJ.yrIgAgCBGHwIyEqi' @ 0 : 0; will stop at (end)

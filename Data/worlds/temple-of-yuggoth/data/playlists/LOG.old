@@ -1,15 +1,8 @@
-2024/02/28-16:18:53.217 2ff0 Recovering log #98
-2024/02/28-16:18:53.221 2ff0 Delete type=0 #98
-2024/02/28-16:18:53.221 2ff0 Delete type=3 #96
-2024/02/28-17:01:18.360 25b0 Level-0 table #103: started
-2024/02/28-17:01:18.370 25b0 Level-0 table #103: 1306 bytes OK
-2024/02/28-17:01:18.371 25b0 Delete type=0 #101
-2024/02/28-17:01:18.381 25b0 Manual compaction at level-0 from '!playlists!ljOf6EamCZ3zvTDC' @ 72057594037927935 : 1 .. '!playlists.sounds!ljOf6EamCZ3zvTDC.xrt7jtjtV1uvNgmA' @ 0 : 0; will stop at (end)
-2024/02/28-17:01:18.381 25b0 Manual compaction at level-1 from '!playlists!ljOf6EamCZ3zvTDC' @ 72057594037927935 : 1 .. '!playlists.sounds!ljOf6EamCZ3zvTDC.xrt7jtjtV1uvNgmA' @ 0 : 0; will stop at '!playlists.sounds!ljOf6EamCZ3zvTDC.TxnN2KiacD5cPc0Z' @ 345 : 1
-2024/02/28-17:01:18.381 25b0 Compacting 1@1 + 1@2 files
-2024/02/28-17:01:18.389 25b0 Generated table #104@1: 11 keys, 1772 bytes
-2024/02/28-17:01:18.389 25b0 Compacted 1@1 + 1@2 files => 1772 bytes
-2024/02/28-17:01:18.391 25b0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/02/28-17:01:18.391 25b0 Delete type=2 #95
-2024/02/28-17:01:18.391 25b0 Delete type=2 #103
-2024/02/28-17:01:18.403 25b0 Manual compaction at level-1 from '!playlists.sounds!ljOf6EamCZ3zvTDC.TxnN2KiacD5cPc0Z' @ 345 : 1 .. '!playlists.sounds!ljOf6EamCZ3zvTDC.xrt7jtjtV1uvNgmA' @ 0 : 0; will stop at (end)
+2024/03/01-08:28:25.425 44ac Recovering log #109
+2024/03/01-08:28:25.430 44ac Delete type=0 #109
+2024/03/01-08:28:25.430 44ac Delete type=3 #107
+2024/03/01-08:28:31.590 2ec0 Level-0 table #115: started
+2024/03/01-08:28:31.590 2ec0 Level-0 table #115: 0 bytes OK
+2024/03/01-08:28:31.592 2ec0 Delete type=0 #113
+2024/03/01-08:28:31.595 2ec0 Manual compaction at level-0 from '!playlists!ljOf6EamCZ3zvTDC' @ 72057594037927935 : 1 .. '!playlists.sounds!ljOf6EamCZ3zvTDC.xrt7jtjtV1uvNgmA' @ 0 : 0; will stop at (end)
+2024/03/01-08:28:31.595 2ec0 Manual compaction at level-1 from '!playlists!ljOf6EamCZ3zvTDC' @ 72057594037927935 : 1 .. '!playlists.sounds!ljOf6EamCZ3zvTDC.xrt7jtjtV1uvNgmA' @ 0 : 0; will stop at (end)
