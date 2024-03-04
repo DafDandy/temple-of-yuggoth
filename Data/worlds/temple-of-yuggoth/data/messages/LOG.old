@@ -1,24 +1,22 @@
-2024/03/01-13:40:23.848 22dc Recovering log #130
-2024/03/01-13:40:23.848 22dc Level-0 table #132: started
-2024/03/01-13:40:23.855 22dc Level-0 table #132: 821 bytes OK
-2024/03/01-13:40:23.859 22dc Delete type=0 #130
-2024/03/01-13:40:23.860 22dc Delete type=3 #129
-2024/03/01-14:09:50.122 3f6c Level-0 table #135: started
-2024/03/01-14:09:50.123 3f6c Level-0 table #135: 0 bytes OK
-2024/03/01-14:09:50.125 3f6c Delete type=0 #133
-2024/03/01-14:09:50.137 3f6c Manual compaction at level-0 from '!messages!7OEsOS0ZEhsHXfb0' @ 72057594037927935 : 1 .. '!messages!wR3zjNXQpj9wagfO' @ 0 : 0; will stop at '!messages!wR3zjNXQpj9wagfO' @ 797 : 1
-2024/03/01-14:09:50.137 3f6c Compacting 1@0 + 1@1 files
-2024/03/01-14:09:50.148 3f6c Generated table #136@0: 57 keys, 2109 bytes
-2024/03/01-14:09:50.148 3f6c Compacted 1@0 + 1@1 files => 2109 bytes
-2024/03/01-14:09:50.150 3f6c compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/03/01-14:09:50.150 3f6c Delete type=2 #126
-2024/03/01-14:09:50.151 3f6c Delete type=2 #132
-2024/03/01-14:09:50.180 3f6c Manual compaction at level-0 from '!messages!wR3zjNXQpj9wagfO' @ 797 : 1 .. '!messages!wR3zjNXQpj9wagfO' @ 0 : 0; will stop at (end)
-2024/03/01-14:09:50.190 3f6c Manual compaction at level-1 from '!messages!7OEsOS0ZEhsHXfb0' @ 72057594037927935 : 1 .. '!messages!wR3zjNXQpj9wagfO' @ 0 : 0; will stop at '!messages!zTy4slCk64p2LmSz' @ 795 : 0
-2024/03/01-14:09:50.190 3f6c Compacting 1@1 + 1@2 files
-2024/03/01-14:09:50.196 3f6c Generated table #137@1: 2 keys, 821 bytes
-2024/03/01-14:09:50.196 3f6c Compacted 1@1 + 1@2 files => 821 bytes
-2024/03/01-14:09:50.197 3f6c compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/03/01-14:09:50.197 3f6c Delete type=2 #118
-2024/03/01-14:09:50.197 3f6c Delete type=2 #136
-2024/03/01-14:09:50.209 3f6c Manual compaction at level-1 from '!messages!zTy4slCk64p2LmSz' @ 795 : 0 .. '!messages!wR3zjNXQpj9wagfO' @ 0 : 0; will stop at (end)
+2024/03/03-19:06:43.898 47d0 Recovering log #144
+2024/03/03-19:06:43.902 47d0 Delete type=0 #144
+2024/03/03-19:06:43.903 47d0 Delete type=3 #142
+2024/03/03-22:13:24.748 4128 Level-0 table #149: started
+2024/03/03-22:13:24.754 4128 Level-0 table #149: 128604 bytes OK
+2024/03/03-22:13:24.756 4128 Delete type=0 #147
+2024/03/03-22:13:24.779 4128 Manual compaction at level-0 from '!messages!0mi7iCfYUKEzITbL' @ 72057594037927935 : 1 .. '!messages!wFjtL6m8R3zIw7df' @ 0 : 0; will stop at '!messages!wFjtL6m8R3zIw7df' @ 802 : 1
+2024/03/03-22:13:24.779 4128 Compacting 1@0 + 1@1 files
+2024/03/03-22:13:24.784 4128 Generated table #150@0: 46 keys, 46940 bytes
+2024/03/03-22:13:24.784 4128 Compacted 1@0 + 1@1 files => 46940 bytes
+2024/03/03-22:13:24.785 4128 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/03-22:13:24.786 4128 Delete type=2 #145
+2024/03/03-22:13:24.786 4128 Delete type=2 #149
+2024/03/03-22:13:24.788 4128 Manual compaction at level-0 from '!messages!wFjtL6m8R3zIw7df' @ 802 : 1 .. '!messages!wFjtL6m8R3zIw7df' @ 0 : 0; will stop at (end)
+2024/03/03-22:13:24.808 4128 Manual compaction at level-1 from '!messages!0mi7iCfYUKEzITbL' @ 72057594037927935 : 1 .. '!messages!wFjtL6m8R3zIw7df' @ 0 : 0; will stop at '!messages!wR3zjNXQpj9wagfO' @ 799 : 0
+2024/03/03-22:13:24.808 4128 Compacting 1@1 + 1@2 files
+2024/03/03-22:13:24.812 4128 Generated table #151@1: 44 keys, 46904 bytes
+2024/03/03-22:13:24.812 4128 Compacted 1@1 + 1@2 files => 46904 bytes
+2024/03/03-22:13:24.813 4128 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/03-22:13:24.813 4128 Delete type=2 #137
+2024/03/03-22:13:24.813 4128 Delete type=2 #150
+2024/03/03-22:13:24.817 4128 Manual compaction at level-1 from '!messages!wR3zjNXQpj9wagfO' @ 799 : 0 .. '!messages!wFjtL6m8R3zIw7df' @ 0 : 0; will stop at (end)
