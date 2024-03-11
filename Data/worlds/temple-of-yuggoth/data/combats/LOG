@@ -1,7 +1,3 @@
-2024/03/03-22:15:40.543 1e80 Recovering log #141
-2024/03/03-22:15:40.548 1e80 Delete type=0 #141
-2024/03/03-22:15:40.548 1e80 Delete type=3 #139
-2024/03/03-22:22:03.518 16d0 Level-0 table #146: started
-2024/03/03-22:22:03.518 16d0 Level-0 table #146: 0 bytes OK
-2024/03/03-22:22:03.520 16d0 Delete type=0 #144
-2024/03/03-22:22:03.524 16d0 Manual compaction at level-0 from '!combats!Q39GCjDH2k3rhtJQ' @ 72057594037927935 : 1 .. '!combats!Q39GCjDH2k3rhtJQ' @ 0 : 0; will stop at (end)
+2024/03/10-19:37:01.269 264c Recovering log #164
+2024/03/10-19:37:01.281 264c Delete type=0 #164
+2024/03/10-19:37:01.281 264c Delete type=3 #163

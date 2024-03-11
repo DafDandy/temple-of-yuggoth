@@ -1,8 +1,5 @@
-2024/03/03-22:15:40.564 1e80 Recovering log #153
-2024/03/03-22:15:40.569 1e80 Delete type=0 #153
-2024/03/03-22:15:40.569 1e80 Delete type=3 #151
-2024/03/03-22:22:03.536 16d0 Level-0 table #159: started
-2024/03/03-22:22:03.536 16d0 Level-0 table #159: 0 bytes OK
-2024/03/03-22:22:03.538 16d0 Delete type=0 #157
-2024/03/03-22:22:03.539 16d0 Manual compaction at level-0 from '!fog!2alGlywmTYSU4XxH' @ 72057594037927935 : 1 .. '!fog!siSYbZ9biTFh0fe6' @ 0 : 0; will stop at (end)
-2024/03/03-22:22:03.544 16d0 Manual compaction at level-1 from '!fog!2alGlywmTYSU4XxH' @ 72057594037927935 : 1 .. '!fog!siSYbZ9biTFh0fe6' @ 0 : 0; will stop at (end)
+2024/03/10-19:37:01.302 264c Recovering log #180
+2024/03/10-19:37:01.303 264c Level-0 table #182: started
+2024/03/10-19:37:01.309 264c Level-0 table #182: 115419 bytes OK
+2024/03/10-19:37:01.322 264c Delete type=0 #180
+2024/03/10-19:37:01.322 264c Delete type=3 #179

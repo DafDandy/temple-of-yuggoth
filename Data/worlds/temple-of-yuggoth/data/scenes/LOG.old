@@ -1,25 +1,3 @@
-2024/03/03-19:06:44.106 47d0 Recovering log #170
-2024/03/03-19:06:44.111 47d0 Delete type=0 #170
-2024/03/03-19:06:44.111 47d0 Delete type=3 #168
-2024/03/03-21:50:44.722 4128 Level-0 table #175: started
-2024/03/03-21:50:44.746 4128 Level-0 table #175: 1484171 bytes OK
-2024/03/03-21:50:44.749 4128 Delete type=0 #173
-2024/03/03-22:13:24.908 4128 Level-0 table #177: started
-2024/03/03-22:13:24.912 4128 Level-0 table #177: 93954 bytes OK
-2024/03/03-22:13:24.913 4128 Delete type=0 #174
-2024/03/03-22:13:24.915 4128 Manual compaction at level-0 from '!scenes!29lF2Czh2QOUEi7h' @ 72057594037927935 : 1 .. '!scenes.walls!wUIO9Jhy3fJrKHXJ.yrIgAgCBGHwIyEqi' @ 0 : 0; will stop at '!scenes.walls!fpP9Ao97S4kKbQ3m.gwCIBaYqjXounUjd' @ 18758 : 1
-2024/03/03-22:13:24.916 4128 Compacting 1@0 + 1@1 files
-2024/03/03-22:13:24.923 4128 Generated table #178@0: 31 keys, 28732 bytes
-2024/03/03-22:13:24.923 4128 Compacted 1@0 + 1@1 files => 28732 bytes
-2024/03/03-22:13:24.924 4128 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/03/03-22:13:24.925 4128 Delete type=2 #175
-2024/03/03-22:13:24.925 4128 Delete type=2 #177
-2024/03/03-22:13:24.941 4128 Manual compaction at level-0 from '!scenes.walls!fpP9Ao97S4kKbQ3m.gwCIBaYqjXounUjd' @ 18758 : 1 .. '!scenes.walls!wUIO9Jhy3fJrKHXJ.yrIgAgCBGHwIyEqi' @ 0 : 0; will stop at (end)
-2024/03/03-22:13:24.944 4128 Manual compaction at level-1 from '!scenes!29lF2Czh2QOUEi7h' @ 72057594037927935 : 1 .. '!scenes.walls!wUIO9Jhy3fJrKHXJ.yrIgAgCBGHwIyEqi' @ 0 : 0; will stop at '!scenes.walls!wUIO9Jhy3fJrKHXJ.gE1PkLgZjmp6fozT' @ 18222 : 1
-2024/03/03-22:13:24.944 4128 Compacting 1@1 + 1@2 files
-2024/03/03-22:13:24.950 4128 Generated table #179@1: 2144 keys, 235441 bytes
-2024/03/03-22:13:24.950 4128 Compacted 1@1 + 1@2 files => 235441 bytes
-2024/03/03-22:13:24.951 4128 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/03/03-22:13:24.951 4128 Delete type=2 #163
-2024/03/03-22:13:24.951 4128 Delete type=2 #178
-2024/03/03-22:13:24.962 4128 Manual compaction at level-1 from '!scenes.walls!wUIO9Jhy3fJrKHXJ.gE1PkLgZjmp6fozT' @ 18222 : 1 .. '!scenes.walls!wUIO9Jhy3fJrKHXJ.yrIgAgCBGHwIyEqi' @ 0 : 0; will stop at (end)
+2024/03/10-19:13:15.479 840 Recovering log #202
+2024/03/10-19:13:15.491 840 Delete type=0 #202
+2024/03/10-19:13:15.492 840 Delete type=3 #200

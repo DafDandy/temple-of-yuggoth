@@ -9353,3 +9353,1062 @@
 {"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-03 22:22:04"}
 {"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2024-03-03 22:22:05"}
 {"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2024-03-03 22:22:05"}
+{"level":"info","message":"Running on Node.js - Version 18.14.0","timestamp":"2024-03-03 22:31:09"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 11 Build 315","timestamp":"2024-03-03 22:31:09"}
+{"level":"info","message":"User Data Directory - \"C:/Users/ryan_/AppData/Local/FoundryVTT\"","timestamp":"2024-03-03 22:31:09"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": false,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"protocol\": null,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"upnpLeaseDuration\": null,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"adminPassword\": \"••••••••••••••••\",\n  \"noBackups\": false\n}","timestamp":"2024-03-03 22:31:09"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2024-03-03 22:31:09"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2024-03-03 22:31:09"}
+{"level":"info","message":"Running Electron application with version 24.8.5 using Chromium 112.0.5615.204","timestamp":"2024-03-03 22:31:09"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2024-03-03 22:31:09"}
+{"level":"info","message":"Created client session 8c9e732aeba8904ad980042e","timestamp":"2024-03-03 22:31:09"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-03 22:31:09"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-03 22:31:09"}
+{"level":"info","message":"Administrator authentication successful for session 8c9e732aeba8904ad980042e","timestamp":"2024-03-03 22:31:30"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-03 22:31:32"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"actors\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"cards\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"messages\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"combats\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"drawings\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fog\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"folders\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"items\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"journal\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"macros\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"playlists\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"tables\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scenes\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"settings\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"users\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.gm-tools\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.dnd-aids\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.heroes\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsters\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.items\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tradegoods\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.spells\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.backgrounds\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classes\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.subclasses\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classfeatures\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.races\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsterfeatures\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.rules\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tables\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fxmaster.fxmaster\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-merchant-tables\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-custom-items\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-macros\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"midi-qol.midiqol-sample-items\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scene-transitions.scene-transitions-macros\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Connected to database \"too-many-tokens-dnd.toomanytokensdnd-macros\"","timestamp":"2024-03-03 22:31:32"}
+{"level":"info","message":"FoundryVTT | Created 0 Folder documents with ids: []","timestamp":"2024-03-03 22:31:32"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"8c9e732aeba8904ad980042e","timestamp":"2024-03-03 22:31:34"}
+{"level":"info","message":"No system update for Dungeons & Dragons Fifth Edition is currently available.","timestamp":"2024-03-03 22:31:35"}
+{"level":"info","message":"Vended World data to User [5nuQTPpR1Guna1Cg] in 366ms","timestamp":"2024-03-03 22:31:35"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-03 22:31:46"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-03 22:32:20"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content' has no more active editors, cleaning up.","timestamp":"2024-03-03 22:32:20"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-03 22:32:25"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-03 22:32:25"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2024-03-03 22:32:26"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2024-03-03 22:32:26"}
+{"level":"info","message":"Running on Node.js - Version 18.14.0","timestamp":"2024-03-05 14:51:59"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 11 Build 315","timestamp":"2024-03-05 14:51:59"}
+{"level":"info","message":"User Data Directory - \"C:/Users/ryan_/AppData/Local/FoundryVTT\"","timestamp":"2024-03-05 14:51:59"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": false,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"protocol\": null,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"upnpLeaseDuration\": null,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"adminPassword\": \"••••••••••••••••\",\n  \"noBackups\": false\n}","timestamp":"2024-03-05 14:51:59"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2024-03-05 14:51:59"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2024-03-05 14:51:59"}
+{"level":"info","message":"Running Electron application with version 24.8.5 using Chromium 112.0.5615.204","timestamp":"2024-03-05 14:51:59"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2024-03-05 14:52:00"}
+{"level":"info","message":"Created client session 8519de5ffc357cc9ee8f1d72","timestamp":"2024-03-05 14:52:00"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-05 14:52:00"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-05 14:52:00"}
+{"level":"info","message":"Administrator authentication successful for session 8519de5ffc357cc9ee8f1d72","timestamp":"2024-03-05 14:52:06"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-05 14:52:08"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-05 14:52:08"}
+{"level":"info","message":"FoundryVTT | Connected to database \"actors\"","timestamp":"2024-03-05 14:52:08"}
+{"level":"info","message":"FoundryVTT | Connected to database \"cards\"","timestamp":"2024-03-05 14:52:08"}
+{"level":"info","message":"FoundryVTT | Connected to database \"messages\"","timestamp":"2024-03-05 14:52:08"}
+{"level":"info","message":"FoundryVTT | Connected to database \"combats\"","timestamp":"2024-03-05 14:52:08"}
+{"level":"info","message":"FoundryVTT | Connected to database \"drawings\"","timestamp":"2024-03-05 14:52:08"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fog\"","timestamp":"2024-03-05 14:52:08"}
+{"level":"info","message":"FoundryVTT | Connected to database \"folders\"","timestamp":"2024-03-05 14:52:08"}
+{"level":"info","message":"FoundryVTT | Connected to database \"items\"","timestamp":"2024-03-05 14:52:08"}
+{"level":"info","message":"FoundryVTT | Connected to database \"journal\"","timestamp":"2024-03-05 14:52:08"}
+{"level":"info","message":"FoundryVTT | Connected to database \"macros\"","timestamp":"2024-03-05 14:52:08"}
+{"level":"info","message":"FoundryVTT | Connected to database \"playlists\"","timestamp":"2024-03-05 14:52:08"}
+{"level":"info","message":"FoundryVTT | Connected to database \"tables\"","timestamp":"2024-03-05 14:52:08"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scenes\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"settings\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"users\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.gm-tools\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.dnd-aids\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.heroes\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsters\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.items\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tradegoods\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.spells\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.backgrounds\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classes\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.subclasses\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classfeatures\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.races\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsterfeatures\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.rules\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tables\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fxmaster.fxmaster\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-merchant-tables\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-custom-items\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-macros\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"midi-qol.midiqol-sample-items\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scene-transitions.scene-transitions-macros\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Connected to database \"too-many-tokens-dnd.toomanytokensdnd-macros\"","timestamp":"2024-03-05 14:52:09"}
+{"level":"info","message":"FoundryVTT | Created 0 Folder documents with ids: []","timestamp":"2024-03-05 14:52:09"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"8519de5ffc357cc9ee8f1d72","timestamp":"2024-03-05 14:52:12"}
+{"level":"info","message":"No system update for Dungeons & Dragons Fifth Edition is currently available.","timestamp":"2024-03-05 14:52:13"}
+{"level":"info","message":"Vended World data to User [5nuQTPpR1Guna1Cg] in 333ms","timestamp":"2024-03-05 14:52:13"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2024-03-05 14:52:19"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2024-03-05 14:52:19"}
+{"level":"info","message":"Running on Node.js - Version 18.14.0","timestamp":"2024-03-05 20:44:33"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 11 Build 315","timestamp":"2024-03-05 20:44:33"}
+{"level":"info","message":"User Data Directory - \"C:/Users/ryan_/AppData/Local/FoundryVTT\"","timestamp":"2024-03-05 20:44:33"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": false,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"protocol\": null,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"upnpLeaseDuration\": null,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"adminPassword\": \"••••••••••••••••\",\n  \"noBackups\": false\n}","timestamp":"2024-03-05 20:44:33"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2024-03-05 20:44:33"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2024-03-05 20:44:33"}
+{"level":"info","message":"Running Electron application with version 24.8.5 using Chromium 112.0.5615.204","timestamp":"2024-03-05 20:44:33"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2024-03-05 20:44:33"}
+{"level":"info","message":"Created client session 369283ebe05aeb64a64da641","timestamp":"2024-03-05 20:44:34"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-05 20:44:34"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-05 20:44:34"}
+{"level":"info","message":"Administrator authentication successful for session 369283ebe05aeb64a64da641","timestamp":"2024-03-05 20:44:39"}
+{"level":"info","message":"Downloading Package - 1%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Downloading Package - 2%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Downloading Package - 3%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Downloading Package - 4%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Downloading Package - 5%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Downloading Package - 6%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Downloading Package - 7%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Downloading Package - 8%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Downloading Package - 9%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Downloading Package - 10%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Downloading Package - 11%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Downloading Package - 100%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 0%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 1%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 2%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 3%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 4%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 5%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 6%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 7%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 8%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 9%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 10%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 11%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 12%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 13%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 14%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 15%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 16%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 17%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 18%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 19%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 20%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 21%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 22%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 23%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 24%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 25%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 26%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 27%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 28%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 29%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 30%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 31%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 32%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 33%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 34%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 35%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 36%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 37%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 38%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 39%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 40%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 41%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 42%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 43%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 44%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 45%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 46%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 47%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 48%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 49%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 50%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 51%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 52%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 53%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 54%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 55%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 56%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 57%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 58%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 59%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 60%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 61%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 62%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 63%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 64%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 65%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 66%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 67%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 68%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 69%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 70%","timestamp":"2024-03-05 21:00:35"}
+{"level":"info","message":"Installing package - 71%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 72%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 73%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 74%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 75%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 76%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 77%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 78%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 79%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 80%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 81%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 82%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 83%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 84%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 85%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 86%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 87%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 88%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 89%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 90%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 91%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 92%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 93%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 94%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 95%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 96%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 97%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 98%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 99%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installing package - 100%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Cleaning Up Artifacts - 100%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Installation Complete - 100%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"FoundryVTT | Installed system sandbox","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Vending Package - 100%","timestamp":"2024-03-05 21:00:36"}
+{"level":"info","message":"Downloading Package - 1%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 2%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 3%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 4%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 5%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 6%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 7%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 8%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 9%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 10%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 11%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 12%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 13%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 14%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 15%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 16%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 17%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 18%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 19%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 20%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 21%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 22%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 23%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 24%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 25%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 26%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 27%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 28%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 29%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 30%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 31%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 32%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 33%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 34%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 35%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 36%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 37%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 38%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 39%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 40%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 41%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 42%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 43%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 44%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 45%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 46%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 47%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 48%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 49%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 50%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 51%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 52%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 53%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 54%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 55%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 56%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 57%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 58%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 59%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 60%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 61%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 62%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 63%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 64%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 65%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 66%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 67%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 68%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 69%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 70%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 71%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 72%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 73%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 74%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 75%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 76%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 77%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 78%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 79%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 80%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 81%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 82%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 83%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 84%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 85%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 86%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 87%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 88%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 89%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 90%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 91%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 92%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 93%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 94%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 95%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 96%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 97%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 98%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 99%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Downloading Package - 100%","timestamp":"2024-03-05 21:00:39"}
+{"level":"info","message":"Installing package - 0%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 1%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 2%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 3%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 4%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 5%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 6%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 7%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 8%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 9%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 10%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 11%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 12%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 13%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 14%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 15%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 16%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 17%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 18%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 19%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 20%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 21%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 22%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 23%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 24%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 25%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 26%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 27%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 28%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 29%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 30%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 31%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 32%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 33%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 34%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 35%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 36%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 37%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 38%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 39%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 40%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 41%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 42%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 43%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 44%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 45%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 46%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 47%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 48%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 49%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 50%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 51%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 52%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 53%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 54%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 55%","timestamp":"2024-03-05 21:00:40"}
+{"level":"info","message":"Installing package - 56%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 57%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 58%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 59%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 60%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 61%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 62%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 63%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 64%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 65%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 66%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 67%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 68%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 69%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 70%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 71%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 72%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 73%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 74%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 75%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 76%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 77%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 78%","timestamp":"2024-03-05 21:00:41"}
+{"level":"info","message":"Installing package - 79%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 80%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 81%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 82%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 83%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 84%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 85%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 86%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 87%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 88%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 89%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 90%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 91%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 92%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 93%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 94%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 95%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 96%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 97%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 98%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 99%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installing package - 100%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Cleaning Up Artifacts - 100%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Installation Complete - 100%","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"FoundryVTT | Installed module _CodeMirror","timestamp":"2024-03-05 21:00:42"}
+{"level":"info","message":"Vending Package - 100%","timestamp":"2024-03-05 21:00:44"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2024-03-05 21:34:22"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2024-03-05 21:34:22"}
+{"level":"info","message":"Running on Node.js - Version 18.14.0","timestamp":"2024-03-08 20:47:50"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 11 Build 315","timestamp":"2024-03-08 20:47:50"}
+{"level":"info","message":"User Data Directory - \"C:/Users/ryan_/AppData/Local/FoundryVTT\"","timestamp":"2024-03-08 20:47:50"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": false,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"protocol\": null,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"upnpLeaseDuration\": null,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"adminPassword\": \"••••••••••••••••\",\n  \"noBackups\": false\n}","timestamp":"2024-03-08 20:47:50"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2024-03-08 20:47:50"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2024-03-08 20:47:50"}
+{"level":"info","message":"Running Electron application with version 24.8.5 using Chromium 112.0.5615.204","timestamp":"2024-03-08 20:47:50"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2024-03-08 20:47:50"}
+{"level":"info","message":"Created client session 4fa56aa415f41e603958fb23","timestamp":"2024-03-08 20:47:51"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-08 20:47:51"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-08 20:47:51"}
+{"level":"info","message":"Administrator authentication successful for session 4fa56aa415f41e603958fb23","timestamp":"2024-03-08 20:47:56"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-08 20:48:06"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-08 20:48:06"}
+{"level":"info","message":"FoundryVTT | Connected to database \"actors\"","timestamp":"2024-03-08 20:48:06"}
+{"level":"info","message":"FoundryVTT | Connected to database \"cards\"","timestamp":"2024-03-08 20:48:06"}
+{"level":"info","message":"FoundryVTT | Connected to database \"messages\"","timestamp":"2024-03-08 20:48:06"}
+{"level":"info","message":"FoundryVTT | Connected to database \"combats\"","timestamp":"2024-03-08 20:48:06"}
+{"level":"info","message":"FoundryVTT | Connected to database \"drawings\"","timestamp":"2024-03-08 20:48:06"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fog\"","timestamp":"2024-03-08 20:48:06"}
+{"level":"info","message":"FoundryVTT | Connected to database \"folders\"","timestamp":"2024-03-08 20:48:06"}
+{"level":"info","message":"FoundryVTT | Connected to database \"items\"","timestamp":"2024-03-08 20:48:06"}
+{"level":"info","message":"FoundryVTT | Connected to database \"journal\"","timestamp":"2024-03-08 20:48:06"}
+{"level":"info","message":"FoundryVTT | Connected to database \"macros\"","timestamp":"2024-03-08 20:48:06"}
+{"level":"info","message":"FoundryVTT | Connected to database \"playlists\"","timestamp":"2024-03-08 20:48:06"}
+{"level":"info","message":"FoundryVTT | Connected to database \"tables\"","timestamp":"2024-03-08 20:48:06"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scenes\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"settings\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"users\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.gm-tools\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.dnd-aids\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.heroes\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsters\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.items\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tradegoods\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.spells\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.backgrounds\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classes\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.subclasses\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classfeatures\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.races\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsterfeatures\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.rules\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tables\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fxmaster.fxmaster\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-merchant-tables\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-custom-items\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-macros\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"midi-qol.midiqol-sample-items\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scene-transitions.scene-transitions-macros\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Connected to database \"too-many-tokens-dnd.toomanytokensdnd-macros\"","timestamp":"2024-03-08 20:48:07"}
+{"level":"info","message":"FoundryVTT | Created 0 Folder documents with ids: []","timestamp":"2024-03-08 20:48:07"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"4fa56aa415f41e603958fb23","timestamp":"2024-03-08 20:48:10"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-08 20:48:11"}
+{"level":"info","message":"Vended World data to User [5nuQTPpR1Guna1Cg] in 282ms","timestamp":"2024-03-08 20:48:11"}
+{"level":"info","message":"FoundryVTT | Created Token with id [dnE5QyqpsRu2ev7l] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-08 20:48:35"}
+{"level":"info","message":"Activating scene World Map [eE4Hq6Yg0FqfZmp8]","timestamp":"2024-03-08 20:49:08"}
+{"level":"info","message":"Activating scene Estra-Tavern [29lF2Czh2QOUEi7h]","timestamp":"2024-03-08 20:49:20"}
+{"level":"info","message":"Activating scene Walter-City-Streets [M6IrUJWG0xon4Bzl]","timestamp":"2024-03-08 20:49:28"}
+{"level":"info","message":"Activating scene Cavern [ae7VYkxItgREatnZ]","timestamp":"2024-03-08 20:49:40"}
+{"level":"info","message":"FoundryVTT | Created Token with id [mccThio0L5Cs6czY] in parent Scene [ae7VYkxItgREatnZ]","timestamp":"2024-03-08 20:49:49"}
+{"level":"info","message":"Activating scene Cultist-Layer [4n832RHmw8FLTwd4]","timestamp":"2024-03-08 20:50:24"}
+{"level":"info","message":"FoundryVTT | Created Token with id [iRLBmJLv7zL8GoFk] in parent Scene [4n832RHmw8FLTwd4]","timestamp":"2024-03-08 20:50:29"}
+{"level":"info","message":"FoundryVTT | Deleted Token with id [iRLBmJLv7zL8GoFk] in parent Scene [4n832RHmw8FLTwd4]","timestamp":"2024-03-08 20:51:48"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2024-03-08 20:54:57"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2024-03-08 20:54:57"}
+{"level":"info","message":"Running on Node.js - Version 18.14.0","timestamp":"2024-03-08 23:09:27"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 11 Build 315","timestamp":"2024-03-08 23:09:27"}
+{"level":"info","message":"User Data Directory - \"C:/Users/ryan_/AppData/Local/FoundryVTT\"","timestamp":"2024-03-08 23:09:27"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": false,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"protocol\": null,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"upnpLeaseDuration\": null,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"adminPassword\": \"••••••••••••••••\",\n  \"noBackups\": false\n}","timestamp":"2024-03-08 23:09:27"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2024-03-08 23:09:27"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2024-03-08 23:09:27"}
+{"level":"info","message":"Running Electron application with version 24.8.5 using Chromium 112.0.5615.204","timestamp":"2024-03-08 23:09:27"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2024-03-08 23:09:28"}
+{"level":"info","message":"Created client session e61446780f9639b275167791","timestamp":"2024-03-08 23:09:28"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-08 23:09:28"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-08 23:09:28"}
+{"level":"info","message":"Administrator authentication successful for session e61446780f9639b275167791","timestamp":"2024-03-08 23:09:33"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-08 23:09:36"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"actors\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"cards\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"messages\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"combats\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"drawings\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fog\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"folders\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"items\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"journal\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"macros\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"playlists\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"tables\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scenes\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"settings\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"users\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.gm-tools\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.dnd-aids\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.heroes\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsters\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.items\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tradegoods\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.spells\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.backgrounds\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classes\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.subclasses\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classfeatures\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.races\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsterfeatures\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.rules\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tables\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fxmaster.fxmaster\"","timestamp":"2024-03-08 23:09:36"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-merchant-tables\"","timestamp":"2024-03-08 23:09:37"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-custom-items\"","timestamp":"2024-03-08 23:09:37"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-macros\"","timestamp":"2024-03-08 23:09:37"}
+{"level":"info","message":"FoundryVTT | Connected to database \"midi-qol.midiqol-sample-items\"","timestamp":"2024-03-08 23:09:37"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scene-transitions.scene-transitions-macros\"","timestamp":"2024-03-08 23:09:37"}
+{"level":"info","message":"FoundryVTT | Connected to database \"too-many-tokens-dnd.toomanytokensdnd-macros\"","timestamp":"2024-03-08 23:09:37"}
+{"level":"info","message":"FoundryVTT | Created 0 Folder documents with ids: []","timestamp":"2024-03-08 23:09:37"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"e61446780f9639b275167791","timestamp":"2024-03-08 23:09:39"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-08 23:09:40"}
+{"level":"info","message":"Vended World data to User [5nuQTPpR1Guna1Cg] in 237ms","timestamp":"2024-03-08 23:09:40"}
+{"level":"info","message":"Activating scene City-Streets [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-08 23:10:00"}
+{"level":"info","message":"FoundryVTT | Deleted Token with id [dnE5QyqpsRu2ev7l] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-08 23:10:15"}
+{"level":"info","message":"Activating scene Black Loading [ow1bXimf4DUq4wZW]","timestamp":"2024-03-08 23:10:42"}
+{"level":"info","message":"Created client session f483324971a117c611c36511","timestamp":"2024-03-08 23:11:36"}
+{"ip":"::ffff:96.27.196.233","level":"info","message":"User authentication successful for user lamb","session":"f483324971a117c611c36511","timestamp":"2024-03-08 23:12:02"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-08 23:12:04"}
+{"level":"info","message":"Vended World data to User [Np6ZM38K6Ffhe8yP] in 194ms","timestamp":"2024-03-08 23:12:04"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [A4Cax2JTP6wRaZiB]","timestamp":"2024-03-08 23:13:49"}
+{"level":"info","message":"FoundryVTT | Created Item with id [VOwbjGzZm9GYX7cH] in parent Actor [bbqFRF9Lp8jdsjOl]","timestamp":"2024-03-08 23:17:06"}
+{"level":"info","message":"FoundryVTT | Created Item with id [HlUMZjYuTotgyX09] in parent Actor [bbqFRF9Lp8jdsjOl]","timestamp":"2024-03-08 23:17:15"}
+{"level":"info","message":"FoundryVTT | Created Item with id [UMk4007FUsIYQrG9] in parent Actor [bbqFRF9Lp8jdsjOl]","timestamp":"2024-03-08 23:17:21"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [56WQ6qfrri21hIYx]","timestamp":"2024-03-08 23:18:09"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [uXetRwANByvoQS2J]","timestamp":"2024-03-08 23:18:23"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [GoOewxwa8jZD2WpE]","timestamp":"2024-03-08 23:18:35"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [RJGZp3kKWRlXaxch]","timestamp":"2024-03-08 23:18:46"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [SbGQoaqyiKHyMiIH]","timestamp":"2024-03-08 23:18:59"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [RDpaG0HOeyDhxEuC]","timestamp":"2024-03-08 23:21:07"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2024-03-08 23:21:32"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2024-03-08 23:21:32"}
+{"level":"info","message":"Running on Node.js - Version 18.14.0","timestamp":"2024-03-09 19:52:43"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 11 Build 315","timestamp":"2024-03-09 19:52:43"}
+{"level":"info","message":"User Data Directory - \"C:/Users/ryan_/AppData/Local/FoundryVTT\"","timestamp":"2024-03-09 19:52:43"}
+{"level":"info","message":"Running on Node.js - Version 18.14.0","timestamp":"2024-03-09 19:52:43"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 11 Build 315","timestamp":"2024-03-09 19:52:43"}
+{"level":"info","message":"User Data Directory - \"C:/Users/ryan_/AppData/Local/FoundryVTT\"","timestamp":"2024-03-09 19:52:43"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"A fatal error occurred while trying to start the Foundry Virtual Tabletop server: You do not have permission to create content in C:/Users/ryan_/AppData/Local/FoundryVTT: ENOENT: no such file or directory, unlink 'C:\\Users\\ryan_\\AppData\\Local\\FoundryVTT\\.permission-test.txt'","path":"C:\\Users\\ryan_\\AppData\\Local\\FoundryVTT\\.permission-test.txt","stack":"Error: A fatal error occurred while trying to start the Foundry Virtual Tabletop server: You do not have permission to create content in C:/Users/ryan_/AppData/Local/FoundryVTT: ENOENT: no such file or directory, unlink 'C:\\Users\\ryan_\\AppData\\Local\\FoundryVTT\\.permission-test.txt'\n    at Object.unlinkSync (node:fs:1780:3)\n    at _testPermissions (file:///C:/Program%20Files/Foundry%20Virtual%20Tabletop/resources/app/dist/init.mjs:1:3535)\n    at _initializeCriticalFunctions (file:///C:/Program%20Files/Foundry%20Virtual%20Tabletop/resources/app/dist/init.mjs:1:2547)\n    at Module.initialize (file:///C:/Program%20Files/Foundry%20Virtual%20Tabletop/resources/app/dist/init.mjs:1:1570)\n    at file:///C:/Program%20Files/Foundry%20Virtual%20Tabletop/resources/app/main.mjs:30:15","syscall":"unlink","timestamp":"2024-03-09 19:52:43"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": false,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"protocol\": null,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"upnpLeaseDuration\": null,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"adminPassword\": \"••••••••••••••••\",\n  \"noBackups\": false\n}","timestamp":"2024-03-09 19:52:43"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2024-03-09 19:52:43"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2024-03-09 19:52:43"}
+{"level":"info","message":"Running Electron application with version 24.8.5 using Chromium 112.0.5615.204","timestamp":"2024-03-09 19:52:43"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2024-03-09 19:52:44"}
+{"level":"info","message":"Created client session 74a191777cb34c5cb687f2b5","timestamp":"2024-03-09 19:52:44"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-09 19:52:44"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-09 19:52:44"}
+{"level":"info","message":"Administrator authentication successful for session 74a191777cb34c5cb687f2b5","timestamp":"2024-03-09 19:52:50"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-09 19:52:54"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"actors\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"cards\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"messages\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"combats\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"drawings\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fog\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"folders\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"items\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"journal\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"macros\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"playlists\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"tables\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scenes\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"settings\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"users\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.gm-tools\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.dnd-aids\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.heroes\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsters\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.items\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tradegoods\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.spells\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.backgrounds\"","timestamp":"2024-03-09 19:52:54"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classes\"","timestamp":"2024-03-09 19:52:55"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.subclasses\"","timestamp":"2024-03-09 19:52:55"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classfeatures\"","timestamp":"2024-03-09 19:52:55"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.races\"","timestamp":"2024-03-09 19:52:55"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsterfeatures\"","timestamp":"2024-03-09 19:52:55"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.rules\"","timestamp":"2024-03-09 19:52:55"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tables\"","timestamp":"2024-03-09 19:52:55"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fxmaster.fxmaster\"","timestamp":"2024-03-09 19:52:55"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-merchant-tables\"","timestamp":"2024-03-09 19:52:55"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-custom-items\"","timestamp":"2024-03-09 19:52:55"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-macros\"","timestamp":"2024-03-09 19:52:55"}
+{"level":"info","message":"FoundryVTT | Connected to database \"midi-qol.midiqol-sample-items\"","timestamp":"2024-03-09 19:52:55"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scene-transitions.scene-transitions-macros\"","timestamp":"2024-03-09 19:52:55"}
+{"level":"info","message":"FoundryVTT | Connected to database \"too-many-tokens-dnd.toomanytokensdnd-macros\"","timestamp":"2024-03-09 19:52:55"}
+{"level":"info","message":"FoundryVTT | Created 0 Folder documents with ids: []","timestamp":"2024-03-09 19:52:55"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"74a191777cb34c5cb687f2b5","timestamp":"2024-03-09 19:52:58"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-09 19:52:59"}
+{"level":"info","message":"Vended World data to User [5nuQTPpR1Guna1Cg] in 252ms","timestamp":"2024-03-09 19:52:59"}
+{"level":"info","message":"FoundryVTT | Created JournalEntryPage with id [HdbFLUGxG3lpDUeo] in parent JournalEntry [y2XJvOQEFw6e5Zzb]","timestamp":"2024-03-09 19:55:32"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.HdbFLUGxG3lpDUeo#text.content'.","timestamp":"2024-03-09 19:55:32"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.HdbFLUGxG3lpDUeo#text.content'.","timestamp":"2024-03-09 19:56:32"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.HdbFLUGxG3lpDUeo#text.content'.","timestamp":"2024-03-09 19:57:32"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.m7JkkrAKJAbmbO9q#text.content'.","timestamp":"2024-03-09 19:58:10"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.m7JkkrAKJAbmbO9q#text.content'.","timestamp":"2024-03-09 19:58:26"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.m7JkkrAKJAbmbO9q#text.content' has no more active editors, cleaning up.","timestamp":"2024-03-09 19:58:26"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.HdbFLUGxG3lpDUeo#text.content'.","timestamp":"2024-03-09 19:58:32"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.HdbFLUGxG3lpDUeo#text.content'.","timestamp":"2024-03-09 19:59:32"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.HdbFLUGxG3lpDUeo#text.content'.","timestamp":"2024-03-09 19:59:58"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.HdbFLUGxG3lpDUeo#text.content' has no more active editors, cleaning up.","timestamp":"2024-03-09 19:59:58"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2024-03-09 19:59:59"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2024-03-09 19:59:59"}
+{"level":"info","message":"Running on Node.js - Version 18.14.0","timestamp":"2024-03-10 18:51:10"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 11 Build 315","timestamp":"2024-03-10 18:51:10"}
+{"level":"info","message":"User Data Directory - \"C:/Users/ryan_/AppData/Local/FoundryVTT\"","timestamp":"2024-03-10 18:51:10"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": false,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"protocol\": null,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"upnpLeaseDuration\": null,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"adminPassword\": \"••••••••••••••••\",\n  \"noBackups\": false\n}","timestamp":"2024-03-10 18:51:10"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2024-03-10 18:51:10"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2024-03-10 18:51:10"}
+{"level":"info","message":"Running Electron application with version 24.8.5 using Chromium 112.0.5615.204","timestamp":"2024-03-10 18:51:10"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2024-03-10 18:51:10"}
+{"level":"info","message":"Created client session 891bf36af771411f49832fb1","timestamp":"2024-03-10 18:51:11"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-10 18:51:11"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-10 18:51:11"}
+{"level":"info","message":"Administrator authentication successful for session 891bf36af771411f49832fb1","timestamp":"2024-03-10 18:51:18"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-10 18:51:22"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"actors\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"cards\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"messages\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"combats\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"drawings\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fog\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"folders\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"items\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"journal\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"macros\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"playlists\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"tables\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scenes\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"settings\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"users\"","timestamp":"2024-03-10 18:51:22"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.gm-tools\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.dnd-aids\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.heroes\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsters\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.items\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tradegoods\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.spells\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.backgrounds\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classes\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.subclasses\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classfeatures\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.races\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsterfeatures\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.rules\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tables\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fxmaster.fxmaster\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-merchant-tables\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-custom-items\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-macros\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"midi-qol.midiqol-sample-items\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scene-transitions.scene-transitions-macros\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Connected to database \"too-many-tokens-dnd.toomanytokensdnd-macros\"","timestamp":"2024-03-10 18:51:23"}
+{"level":"info","message":"FoundryVTT | Created 0 Folder documents with ids: []","timestamp":"2024-03-10 18:51:23"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"891bf36af771411f49832fb1","timestamp":"2024-03-10 18:51:27"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 18:51:28"}
+{"level":"info","message":"Vended World data to User [5nuQTPpR1Guna1Cg] in 302ms","timestamp":"2024-03-10 18:51:28"}
+{"level":"info","message":"FoundryVTT | Created JournalEntryPage with id [aJszwthpjjcwsyMA] in parent JournalEntry [y2XJvOQEFw6e5Zzb]","timestamp":"2024-03-10 18:51:54"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.aJszwthpjjcwsyMA#text.content'.","timestamp":"2024-03-10 18:51:54"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.aJszwthpjjcwsyMA#text.content'.","timestamp":"2024-03-10 18:51:56"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.aJszwthpjjcwsyMA#text.content' has no more active editors, cleaning up.","timestamp":"2024-03-10 18:51:56"}
+{"level":"info","message":"FoundryVTT | Created JournalEntryPage with id [jO9tmEGs8jOkaKzx] in parent JournalEntry [y2XJvOQEFw6e5Zzb]","timestamp":"2024-03-10 18:52:08"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.jO9tmEGs8jOkaKzx#text.content'.","timestamp":"2024-03-10 18:52:08"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.jO9tmEGs8jOkaKzx#text.content'.","timestamp":"2024-03-10 18:52:11"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.jO9tmEGs8jOkaKzx#text.content' has no more active editors, cleaning up.","timestamp":"2024-03-10 18:52:11"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.HdbFLUGxG3lpDUeo#text.content'.","timestamp":"2024-03-10 18:52:14"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.HdbFLUGxG3lpDUeo#text.content'.","timestamp":"2024-03-10 18:53:14"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.HdbFLUGxG3lpDUeo#text.content'.","timestamp":"2024-03-10 18:54:14"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.HdbFLUGxG3lpDUeo#text.content'.","timestamp":"2024-03-10 18:55:14"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.HdbFLUGxG3lpDUeo#text.content'.","timestamp":"2024-03-10 18:56:14"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.HdbFLUGxG3lpDUeo#text.content'.","timestamp":"2024-03-10 18:56:30"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.HdbFLUGxG3lpDUeo#text.content' has no more active editors, cleaning up.","timestamp":"2024-03-10 18:56:30"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-03-10 18:56:40"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-03-10 18:57:40"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-03-10 18:58:40"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-03-10 18:59:40"}
+{"level":"info","message":"Toggling game pause status to false","timestamp":"2024-03-10 19:00:29"}
+{"level":"info","message":"Toggling game pause status to true","timestamp":"2024-03-10 19:00:29"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-03-10 19:00:40"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-03-10 19:01:40"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content'.","timestamp":"2024-03-10 19:01:54"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.M8CUhJQrdR7l3RhC#text.content' has no more active editors, cleaning up.","timestamp":"2024-03-10 19:01:54"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.aJszwthpjjcwsyMA#text.content'.","timestamp":"2024-03-10 19:02:11"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.aJszwthpjjcwsyMA#text.content'.","timestamp":"2024-03-10 19:03:11"}
+{"level":"info","message":"FoundryVTT | Created Scene with id [ODFAOXDNExeaLZYr]","timestamp":"2024-03-10 19:04:13"}
+{"level":"info","message":"FoundryVTT | Extracted base64 asset: \"C:\\Users\\ryan_\\AppData\\Local\\FoundryVTT\\Data\\worlds\\temple-of-yuggoth\\assets\\scenes\\ODFAOXDNExeaLZYr-thumb.webp\"","timestamp":"2024-03-10 19:04:45"}
+{"level":"info","message":"Activating scene Chruch-Ulrich [ODFAOXDNExeaLZYr]","timestamp":"2024-03-10 19:04:51"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.aJszwthpjjcwsyMA#text.content'.","timestamp":"2024-03-10 19:04:53"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.aJszwthpjjcwsyMA#text.content' has no more active editors, cleaning up.","timestamp":"2024-03-10 19:04:53"}
+{"level":"info","message":"Activating scene Church [BKVz3etbpJCLZa7p]","timestamp":"2024-03-10 19:07:13"}
+{"level":"info","message":"Activating scene Chruch-Ulrich [ODFAOXDNExeaLZYr]","timestamp":"2024-03-10 19:07:24"}
+{"level":"info","message":"Created client session e3b03f167c04a5bf9122535a","timestamp":"2024-03-10 19:10:06"}
+{"ip":"::ffff:192.168.50.1","level":"info","message":"User authentication successful for user lamb","session":"e3b03f167c04a5bf9122535a","timestamp":"2024-03-10 19:10:17"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 19:10:19"}
+{"level":"info","message":"Vended World data to User [Np6ZM38K6Ffhe8yP] in 365ms","timestamp":"2024-03-10 19:10:19"}
+{"level":"info","message":"FoundryVTT | Created Token with id [z6689WLi58H4bEh3] in parent Scene [ODFAOXDNExeaLZYr]","timestamp":"2024-03-10 19:10:33"}
+{"level":"info","message":"FoundryVTT | Created Token with id [mFZWlz1OxhqFY8i2] in parent Scene [ODFAOXDNExeaLZYr]","timestamp":"2024-03-10 19:10:42"}
+{"level":"info","message":"Toggling game pause status to false","timestamp":"2024-03-10 19:11:01"}
+{"level":"info","message":"FoundryVTT | Created FogExploration with id [28MqukeA7fJK2BTC]","timestamp":"2024-03-10 19:11:16"}
+{"level":"info","message":"FoundryVTT | Deleted Token with id [mFZWlz1OxhqFY8i2] in parent Scene [ODFAOXDNExeaLZYr]","timestamp":"2024-03-10 19:11:18"}
+{"level":"info","message":"Reset 1 FogExploration documents for Scene ODFAOXDNExeaLZYr","timestamp":"2024-03-10 19:11:27"}
+{"level":"info","message":"FoundryVTT | Created Token with id [zzom8UdWAoo5RJKs] in parent Scene [ODFAOXDNExeaLZYr]","timestamp":"2024-03-10 19:11:40"}
+{"level":"info","message":"FoundryVTT | Created FogExploration with id [KVXkPf9JmWFrw9Yg]","timestamp":"2024-03-10 19:11:58"}
+{"level":"info","message":"FoundryVTT | Deleted Token with id [zzom8UdWAoo5RJKs] in parent Scene [ODFAOXDNExeaLZYr]","timestamp":"2024-03-10 19:12:04"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-10 19:12:48"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-10 19:12:48"}
+{"level":"info","message":"Downloading Package - 19%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Downloading Package - 39%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Downloading Package - 58%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Downloading Package - 77%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Downloading Package - 97%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Downloading Package - 99%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Downloading Package - 100%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Installing package - 13%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Installing package - 25%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Installing package - 38%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Installing package - 50%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Installing package - 63%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Installing package - 75%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Installing package - 88%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Installing package - 100%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Cleaning Up Artifacts - 100%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Installation Complete - 100%","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"FoundryVTT | Installed module autorotate","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"FoundryVTT | Applied sidegrade metadata updates to module autorotate","timestamp":"2024-03-10 19:13:03"}
+{"level":"info","message":"Vending Package - 100%","timestamp":"2024-03-10 19:13:03"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-10 19:13:15"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"actors\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"cards\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"messages\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"combats\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"drawings\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fog\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"folders\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"items\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"journal\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"macros\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"playlists\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"tables\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scenes\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"settings\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"users\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.gm-tools\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.dnd-aids\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.heroes\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsters\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.items\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tradegoods\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.spells\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.backgrounds\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classes\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.subclasses\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classfeatures\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.races\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsterfeatures\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.rules\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tables\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fxmaster.fxmaster\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-merchant-tables\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-custom-items\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-macros\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"midi-qol.midiqol-sample-items\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scene-transitions.scene-transitions-macros\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Connected to database \"too-many-tokens-dnd.toomanytokensdnd-macros\"","timestamp":"2024-03-10 19:13:15"}
+{"level":"info","message":"FoundryVTT | Created 0 Folder documents with ids: []","timestamp":"2024-03-10 19:13:15"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"891bf36af771411f49832fb1","timestamp":"2024-03-10 19:13:17"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 19:13:19"}
+{"level":"info","message":"Vended World data to User [5nuQTPpR1Guna1Cg] in 277ms","timestamp":"2024-03-10 19:13:19"}
+{"level":"info","message":"FoundryVTT | Created 0 Folder documents with ids: []","timestamp":"2024-03-10 19:13:27"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 19:13:29"}
+{"level":"info","message":"Vended World data to User [5nuQTPpR1Guna1Cg] in 201ms","timestamp":"2024-03-10 19:13:29"}
+{"level":"info","message":"FoundryVTT | Created Token with id [kPzVITpozN3ANyNs] in parent Scene [ODFAOXDNExeaLZYr]","timestamp":"2024-03-10 19:13:37"}
+{"level":"info","message":"FoundryVTT | Created Setting with id [yVype15nXyvosrtF]","timestamp":"2024-03-10 19:13:48"}
+{"level":"info","message":"FoundryVTT | Created Token with id [04TXNGYvatdWXtnR] in parent Scene [ODFAOXDNExeaLZYr]","timestamp":"2024-03-10 19:14:08"}
+{"level":"info","message":"Activating scene City-Streets [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 19:18:03"}
+{"level":"info","message":"FoundryVTT | Created AmbientLight with id [QiSbkINoyub9KIby] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 19:18:27"}
+{"level":"info","message":"FoundryVTT | Created AmbientLight with id [I9GkLBCnpuoO6KJx] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 19:18:55"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2024-03-10 19:20:51"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2024-03-10 19:20:51"}
+{"level":"info","message":"Running on Node.js - Version 18.14.0","timestamp":"2024-03-10 19:33:01"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 11 Build 315","timestamp":"2024-03-10 19:33:01"}
+{"level":"info","message":"User Data Directory - \"C:/Users/ryan_/AppData/Local/FoundryVTT\"","timestamp":"2024-03-10 19:33:01"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": false,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"protocol\": null,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"upnpLeaseDuration\": null,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"adminPassword\": \"••••••••••••••••\",\n  \"noBackups\": false\n}","timestamp":"2024-03-10 19:33:01"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2024-03-10 19:33:01"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2024-03-10 19:33:01"}
+{"level":"info","message":"Running Electron application with version 24.8.5 using Chromium 112.0.5615.204","timestamp":"2024-03-10 19:33:01"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2024-03-10 19:33:01"}
+{"level":"info","message":"Created client session b42184d2ac4b5682d3a05f35","timestamp":"2024-03-10 19:33:01"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-10 19:33:01"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-10 19:33:01"}
+{"level":"info","message":"Administrator authentication successful for session b42184d2ac4b5682d3a05f35","timestamp":"2024-03-10 19:33:07"}
+{"level":"info","message":"Created client session 193006c353ec4e13e011deda","timestamp":"2024-03-10 19:33:27"}
+{"level":"info","message":"Created client session 08188576b8c8b4d918165d16","timestamp":"2024-03-10 19:34:26"}
+{"level":"warn","message":"The module \"BetterAmbientLoop\" is using the old flat core compatibility fields which are deprecated in favor of the new \"compatibility\" object\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-10 19:37:01"}
+{"level":"warn","message":"The module \"gm-screen\" contains \"dependencies\" which is deprecated in favor of \"relationships.requires\"\nDeprecated since Version 10\nBackwards-compatible support will be removed in Version 13","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"actors\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"cards\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"messages\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"combats\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"drawings\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fog\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"folders\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"items\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"journal\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"macros\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"playlists\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"tables\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scenes\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"settings\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"users\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.gm-tools\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"world.dnd-aids\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.heroes\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsters\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.items\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tradegoods\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.spells\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.backgrounds\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classes\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.subclasses\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.classfeatures\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.races\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.monsterfeatures\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.rules\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"dnd5e.tables\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"fxmaster.fxmaster\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-merchant-tables\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-custom-items\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"item-piles.item-piles-macros\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"midi-qol.midiqol-sample-items\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"scene-transitions.scene-transitions-macros\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Connected to database \"too-many-tokens-dnd.toomanytokensdnd-macros\"","timestamp":"2024-03-10 19:37:01"}
+{"level":"info","message":"FoundryVTT | Created 0 Folder documents with ids: []","timestamp":"2024-03-10 19:37:01"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"b42184d2ac4b5682d3a05f35","timestamp":"2024-03-10 19:37:04"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 19:37:05"}
+{"level":"info","message":"Vended World data to User [5nuQTPpR1Guna1Cg] in 268ms","timestamp":"2024-03-10 19:37:05"}
+{"ip":"::ffff:68.60.110.117","level":"info","message":"User authentication successful for user kasey","session":"193006c353ec4e13e011deda","timestamp":"2024-03-10 19:39:23"}
+{"level":"info","message":"aHR0cHM6Ly9iLnN0YWJsZWNvZy5jb20vMDlkMTE5NjMtOTk5OC00ZDM1LWE4NTMtNjE2ZmM1ZGZmNjhlLmpwZWc.png saved to images/characters","timestamp":"2024-03-10 19:39:25"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 19:39:25"}
+{"level":"info","message":"Vended World data to User [r24o5nuTIWJcvlxX] in 237ms","timestamp":"2024-03-10 19:39:25"}
+{"ip":"::ffff:96.27.196.233","level":"info","message":"User authentication successful for user lamb","session":"08188576b8c8b4d918165d16","timestamp":"2024-03-10 19:40:01"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 19:40:03"}
+{"level":"info","message":"Vended World data to User [Np6ZM38K6Ffhe8yP] in 178ms","timestamp":"2024-03-10 19:40:03"}
+{"level":"info","message":"Created client session 3afbb4e2db7f2d2384fd3bc2","timestamp":"2024-03-10 19:44:22"}
+{"level":"info","message":"Created client session 799d51e6f891fa4694c24d92","timestamp":"2024-03-10 19:44:23"}
+{"ip":"::ffff:206.204.205.209","level":"info","message":"User authentication successful for user tyler","session":"799d51e6f891fa4694c24d92","timestamp":"2024-03-10 19:44:30"}
+{"ip":"::ffff:68.48.53.119","level":"info","message":"User authentication successful for user spencer","session":"3afbb4e2db7f2d2384fd3bc2","timestamp":"2024-03-10 19:44:31"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 19:44:32"}
+{"level":"info","message":"Vended World data to User [jQjY3RxKp44h32Kw] in 219ms","timestamp":"2024-03-10 19:44:32"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 19:44:34"}
+{"level":"info","message":"Vended World data to User [0i2C4abd9w3zfQuY] in 294ms","timestamp":"2024-03-10 19:44:34"}
+{"level":"info","message":"FoundryVTT | Created Token with id [NmodkpKWnTZbCYGB] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 19:46:05"}
+{"level":"info","message":"FoundryVTT | Deleted 7 ChatMessage documents","timestamp":"2024-03-10 19:47:15"}
+{"level":"info","message":"Toggling game pause status to false","timestamp":"2024-03-10 19:47:29"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [a6YoGq9QtJ0665EC]","timestamp":"2024-03-10 19:48:17"}
+{"level":"info","message":"FoundryVTT | Created Wall with id [qrGCWWeioYE8KIQE] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 19:48:23"}
+{"level":"info","message":"FoundryVTT | Deleted Wall with id [qrGCWWeioYE8KIQE] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 19:48:25"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [wjfZjtCZe8iLjd84]","timestamp":"2024-03-10 19:49:21"}
+{"level":"info","message":"Activating scene Tavern-main [wUIO9Jhy3fJrKHXJ]","timestamp":"2024-03-10 19:49:45"}
+{"level":"info","message":"FoundryVTT | Created FogExploration with id [4P9igbbUtkiUx637]","timestamp":"2024-03-10 19:50:24"}
+{"level":"info","message":"Created client session 46136ae457aa51c7b6d3428b","timestamp":"2024-03-10 19:52:26"}
+{"ip":"::ffff:172.74.95.100","level":"info","message":"User authentication successful for user wander","session":"46136ae457aa51c7b6d3428b","timestamp":"2024-03-10 19:52:39"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 19:52:42"}
+{"level":"info","message":"Vended World data to User [EouoEQPLbc3YZ8gg] in 206ms","timestamp":"2024-03-10 19:52:42"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.PFoRyzX7GmnUQg8c#text.content'.","timestamp":"2024-03-10 19:53:56"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.PFoRyzX7GmnUQg8c#text.content'.","timestamp":"2024-03-10 19:54:35"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.PFoRyzX7GmnUQg8c#text.content' has no more active editors, cleaning up.","timestamp":"2024-03-10 19:54:35"}
+{"level":"info","message":"FoundryVTT | Created Token with id [HJVMHWGhsDqpu2IT] in parent Scene [wUIO9Jhy3fJrKHXJ]","timestamp":"2024-03-10 19:55:06"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 19:56:24"}
+{"level":"info","message":"Vended World data to User [EouoEQPLbc3YZ8gg] in 221ms","timestamp":"2024-03-10 19:56:24"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [GIQyH76OPUQNd2As]","timestamp":"2024-03-10 20:05:17"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.aJszwthpjjcwsyMA#text.content'.","timestamp":"2024-03-10 20:06:54"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.aJszwthpjjcwsyMA#text.content'.","timestamp":"2024-03-10 20:07:54"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.aJszwthpjjcwsyMA#text.content'.","timestamp":"2024-03-10 20:08:02"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.aJszwthpjjcwsyMA#text.content' has no more active editors, cleaning up.","timestamp":"2024-03-10 20:08:02"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.aJszwthpjjcwsyMA#text.content'.","timestamp":"2024-03-10 20:08:04"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.aJszwthpjjcwsyMA#text.content'.","timestamp":"2024-03-10 20:08:06"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.aJszwthpjjcwsyMA#text.content' has no more active editors, cleaning up.","timestamp":"2024-03-10 20:08:06"}
+{"level":"info","message":"Activating scene City-Streets [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 20:09:43"}
+{"level":"info","message":"FoundryVTT | Created Token with id [CR3Nqe9xR7TruCtj] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 20:10:09"}
+{"level":"info","message":"FoundryVTT | Created Token with id [CNEfbSqgpDPVcMRF] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 20:10:11"}
+{"level":"info","message":"FoundryVTT | Created Token with id [019gFDqxmaCqiJyy] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 20:10:13"}
+{"level":"info","message":"FoundryVTT | Created Token with id [PxzXTv5pz09nguHt] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 20:10:17"}
+{"level":"info","message":"FoundryVTT | Created Token with id [n4s5Sv88rzjqRzDq] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 20:10:19"}
+{"level":"info","message":"FoundryVTT | Created Token with id [LdfFxxAUKnJRfHuo] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 20:10:35"}
+{"level":"info","message":"FoundryVTT | Deleted Token with id [NmodkpKWnTZbCYGB] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 20:11:01"}
+{"level":"info","message":"FoundryVTT | Created Wall with id [imZQPYeo37bAmLly] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 20:11:47"}
+{"level":"info","message":"FoundryVTT | Created Wall with id [UbPQICCt7YULctcs] in parent Scene [fpP9Ao97S4kKbQ3m]","timestamp":"2024-03-10 20:11:54"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [fqWffAsr7LOsP7EV]","timestamp":"2024-03-10 20:15:15"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [1vCC29VBZq6Fr121]","timestamp":"2024-03-10 20:18:36"}
+{"level":"info","message":"FoundryVTT | Deleted Item with id [rFjVQc0XE0PH0l6m] in parent Actor [eo97rteBSf4dCIDN]","timestamp":"2024-03-10 20:19:18"}
+{"level":"info","message":"FoundryVTT | Deleted Item with id [kemc6onCRjdRIoUK] in parent Actor [eo97rteBSf4dCIDN]","timestamp":"2024-03-10 20:19:27"}
+{"level":"info","message":"FoundryVTT | Deleted Item with id [ezWAN2rqIGiOSogp] in parent Actor [eo97rteBSf4dCIDN]","timestamp":"2024-03-10 20:19:31"}
+{"level":"info","message":"FoundryVTT | Deleted Item with id [oFR9G1iwU0gmiswq] in parent Actor [eo97rteBSf4dCIDN]","timestamp":"2024-03-10 20:19:48"}
+{"level":"info","message":"FoundryVTT | Deleted Item with id [RbFUqQg7u1QKVsa2] in parent Actor [eo97rteBSf4dCIDN]","timestamp":"2024-03-10 20:19:58"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [kXUxGHDo2My4EDV2]","timestamp":"2024-03-10 20:20:17"}
+{"level":"info","message":"FoundryVTT | Deleted Item with id [WRvd79qJSD27SD4N] in parent Actor [eo97rteBSf4dCIDN]","timestamp":"2024-03-10 20:20:26"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [HzQMf2zcyDCWbrAl]","timestamp":"2024-03-10 20:23:28"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [pJuu6zh0sfi6y9vQ]","timestamp":"2024-03-10 20:23:28"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [eRaPKQ1pCjMCQ7n9]","timestamp":"2024-03-10 20:24:02"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [mvzuRjlSPKMcOxwL]","timestamp":"2024-03-10 20:24:56"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [KJaKFRsEV2q4OEpI]","timestamp":"2024-03-10 20:26:35"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [C1qc83kuUp6Tm9uY]","timestamp":"2024-03-10 20:26:36"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [TJOyL4dQ0S9uNULZ]","timestamp":"2024-03-10 20:26:36"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [IKYufHOnHKaU8bdQ]","timestamp":"2024-03-10 20:27:48"}
+{"level":"info","message":"FoundryVTT | Deleted 14 ChatMessage documents","timestamp":"2024-03-10 20:31:15"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [ReHYBGFLT1lf31UO]","timestamp":"2024-03-10 20:31:41"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [OA6BjANV7bObcl1k]","timestamp":"2024-03-10 20:33:38"}
+{"level":"info","message":"FoundryVTT | Deleted Actor with id [SD8PyDjATvG4n7gD]","timestamp":"2024-03-10 20:35:44"}
+{"level":"info","message":"Activating scene City Center [PpOTzJagCc9Eim7V]","timestamp":"2024-03-10 20:37:45"}
+{"level":"info","message":"FoundryVTT | Created Token with id [FNtGgYkjCaIgzbdB] in parent Scene [PpOTzJagCc9Eim7V]","timestamp":"2024-03-10 20:37:53"}
+{"level":"info","message":"FoundryVTT | Created Token with id [ErE0weSOqSZ0nsgX] in parent Scene [PpOTzJagCc9Eim7V]","timestamp":"2024-03-10 20:37:55"}
+{"level":"info","message":"FoundryVTT | Created Token with id [lWVxo3lJTV9OW6rc] in parent Scene [PpOTzJagCc9Eim7V]","timestamp":"2024-03-10 20:37:57"}
+{"level":"info","message":"FoundryVTT | Created Token with id [OsuDYcGmBKWWMd6s] in parent Scene [PpOTzJagCc9Eim7V]","timestamp":"2024-03-10 20:38:00"}
+{"level":"info","message":"FoundryVTT | Created Token with id [4mrNtGRXiD5l9fVx] in parent Scene [PpOTzJagCc9Eim7V]","timestamp":"2024-03-10 20:38:02"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [3MXqo0ylVHEu4Md4]","timestamp":"2024-03-10 20:39:22"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.b257ynnS83YBbunA#text.content'.","timestamp":"2024-03-10 20:40:09"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 20:40:17"}
+{"level":"info","message":"Vended World data to User [EouoEQPLbc3YZ8gg] in 209ms","timestamp":"2024-03-10 20:40:17"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.b257ynnS83YBbunA#text.content'.","timestamp":"2024-03-10 20:41:09"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.b257ynnS83YBbunA#text.content'.","timestamp":"2024-03-10 20:41:20"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.b257ynnS83YBbunA#text.content' has no more active editors, cleaning up.","timestamp":"2024-03-10 20:41:20"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [4JMzlR4W8oGupS3L]","timestamp":"2024-03-10 20:41:33"}
+{"level":"info","message":"FoundryVTT | Created Item with id [stNa5npOHWU3Z9kv] in parent Actor [8GCRoerxozpHnmmW]","timestamp":"2024-03-10 20:44:25"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [IxidUfI4QgwiqDoX]","timestamp":"2024-03-10 20:44:35"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [UsQweGYFk4N7ark8]","timestamp":"2024-03-10 20:44:55"}
+{"level":"info","message":"FoundryVTT | Deleted Item with id [stNa5npOHWU3Z9kv] in parent Actor [8GCRoerxozpHnmmW]","timestamp":"2024-03-10 20:45:15"}
+{"level":"info","message":"Logged user EouoEQPLbc3YZ8gg out of active World","timestamp":"2024-03-10 20:45:23"}
+{"ip":"::ffff:172.74.95.100","level":"info","message":"User authentication successful for user wander","session":"46136ae457aa51c7b6d3428b","timestamp":"2024-03-10 20:45:35"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 20:45:37"}
+{"level":"info","message":"Vended World data to User [EouoEQPLbc3YZ8gg] in 173ms","timestamp":"2024-03-10 20:45:37"}
+{"level":"info","message":"FoundryVTT | Created Token with id [dSiurN4KvxTSHLJw] in parent Scene [PpOTzJagCc9Eim7V]","timestamp":"2024-03-10 20:46:22"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [Cz0J7Y5daifQfi8L]","timestamp":"2024-03-10 20:48:08"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [PnxOdbX622c6OMmD]","timestamp":"2024-03-10 20:50:42"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [amJ4pme0LCUgQ44I]","timestamp":"2024-03-10 20:50:52"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [LF3FusREPXBLFkWJ]","timestamp":"2024-03-10 20:50:55"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [r9eyu0EMKRfx2sy8]","timestamp":"2024-03-10 20:50:58"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [Z2XXUqpVqURMhfnH]","timestamp":"2024-03-10 20:51:16"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [TWWhimTL16QVp2ZJ]","timestamp":"2024-03-10 20:52:27"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [JfPex7Cjc2BXQkkT]","timestamp":"2024-03-10 20:52:38"}
+{"level":"info","message":"FoundryVTT | Created Token with id [BDmDv0xy2xwLAkyX] in parent Scene [PpOTzJagCc9Eim7V]","timestamp":"2024-03-10 20:55:34"}
+{"level":"info","message":"FoundryVTT | Deleted Token with id [BDmDv0xy2xwLAkyX] in parent Scene [PpOTzJagCc9Eim7V]","timestamp":"2024-03-10 20:55:36"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [FlgCNPPPCpty8wAh]","timestamp":"2024-03-10 20:55:44"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [8KKtyjVBqaPkbkQ6]","timestamp":"2024-03-10 20:56:49"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [Ivd3fNHcSoIS10AH]","timestamp":"2024-03-10 20:59:34"}
+{"level":"info","message":"FoundryVTT | Created Token with id [39OLlWFfJUNSHweP] in parent Scene [PpOTzJagCc9Eim7V]","timestamp":"2024-03-10 20:59:48"}
+{"level":"info","message":"FoundryVTT | Created Token with id [gTiA44C6ZjUZgFzO] in parent Scene [PpOTzJagCc9Eim7V]","timestamp":"2024-03-10 21:02:08"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [6FV2M5MlG9JlpIE2]","timestamp":"2024-03-10 21:02:41"}
+{"level":"info","message":"Logged user EouoEQPLbc3YZ8gg out of active World","timestamp":"2024-03-10 21:03:40"}
+{"ip":"::ffff:172.74.95.100","level":"info","message":"User authentication successful for user wander","session":"46136ae457aa51c7b6d3428b","timestamp":"2024-03-10 21:03:50"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 21:03:52"}
+{"level":"info","message":"Vended World data to User [EouoEQPLbc3YZ8gg] in 204ms","timestamp":"2024-03-10 21:03:52"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [WiTmwR7ihaIQDH9G]","timestamp":"2024-03-10 21:04:20"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [GqGikgzkPg4Zag3j]","timestamp":"2024-03-10 21:12:24"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [goqDRQHXCAeaCwAh]","timestamp":"2024-03-10 21:15:11"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [GN5oBtofLJtD0Wz0]","timestamp":"2024-03-10 21:16:43"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [IdO8OHx4uwBIqYOs]","timestamp":"2024-03-10 21:17:24"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [YZkNeQ6Pmqx8S1lh]","timestamp":"2024-03-10 21:17:27"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [Slq6pCIafAocs9c8]","timestamp":"2024-03-10 21:21:44"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [qOlBXTvbCrACR1zN]","timestamp":"2024-03-10 21:23:14"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [ONPLlC0b7qR4Pibq]","timestamp":"2024-03-10 21:25:43"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [Ii7fH16xl8XrRT9G]","timestamp":"2024-03-10 21:25:45"}
+{"level":"info","message":"FoundryVTT | Deleted Token with id [39OLlWFfJUNSHweP] in parent Scene [PpOTzJagCc9Eim7V]","timestamp":"2024-03-10 21:29:34"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [eMYcBpTicfhiIrUV]","timestamp":"2024-03-10 21:32:22"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [eSFw67tox2lcjeJ5]","timestamp":"2024-03-10 21:34:05"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [dBRNPJqsi3Symbek]","timestamp":"2024-03-10 21:35:23"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-10 21:37:17"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-10 21:37:37"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content' has no more active editors, cleaning up.","timestamp":"2024-03-10 21:37:37"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [FSX1gQq05mSoMTfQ]","timestamp":"2024-03-10 21:39:43"}
+{"level":"info","message":"FoundryVTT | Deleted Token with id [gTiA44C6ZjUZgFzO] in parent Scene [PpOTzJagCc9Eim7V]","timestamp":"2024-03-10 21:41:04"}
+{"level":"info","message":"FoundryVTT | Created Token with id [gTiA44C6ZjUZgFzO] in parent Scene [PpOTzJagCc9Eim7V]","timestamp":"2024-03-10 21:41:32"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [xZ83rB48bLgIEG6u]","timestamp":"2024-03-10 21:45:53"}
+{"level":"info","message":"FoundryVTT | Created ChatMessage with id [Whj8hjsVmFOkJjxo]","timestamp":"2024-03-10 21:46:08"}
+{"level":"info","message":"Logged user 5nuQTPpR1Guna1Cg out of active World","timestamp":"2024-03-10 21:49:01"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"b42184d2ac4b5682d3a05f35","timestamp":"2024-03-10 21:49:10"}
+{"level":"info","message":"Dungeons & Dragons Fifth Edition update 3.0.4 is now available!","timestamp":"2024-03-10 21:49:11"}
+{"level":"info","message":"Vended World data to User [5nuQTPpR1Guna1Cg] in 268ms","timestamp":"2024-03-10 21:49:11"}
+{"level":"debug","message":"Starting edit session for user '5nuQTPpR1Guna1Cg' and instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-10 21:50:30"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-10 21:51:30"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-10 21:52:30"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-10 21:53:30"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-10 21:54:30"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-10 21:55:30"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-10 21:56:30"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-10 21:57:30"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-10 21:58:30"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-10 21:59:30"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-10 22:00:30"}
+{"level":"debug","message":"Retiring user '5nuQTPpR1Guna1Cg' from editing session for instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content'.","timestamp":"2024-03-10 22:00:40"}
+{"level":"debug","message":"Instance 'JournalEntry.y2XJvOQEFw6e5Zzb.JournalEntryPage.JhSzckzqmpbFrwiX#text.content' has no more active editors, cleaning up.","timestamp":"2024-03-10 22:00:40"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2024-03-10 22:00:44"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2024-03-10 22:00:44"}
